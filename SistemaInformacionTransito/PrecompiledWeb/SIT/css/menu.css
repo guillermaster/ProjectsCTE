@@ -1,0 +1,47 @@
+﻿.menu
+{
+    /*background: url('../images/bgmainmenu.png') repeat-y;*/
+    width: 100%; margin: 0 0 0 0px;/* margin-top: -15px;*/
+    padding: 0;
+}
+
+#menuafter
+{
+    background: url('../images/bgaftermenu.png') no-repeat; width: 130px; height: 40px; margin-top: -15px;
+}
+
+.level1
+{
+    color: #6f7175;
+    /*background-color: Black;*/
+    font-variant: small-caps;
+    font-size: large;
+    font-weight: bold;
+    padding: 5px 20px;
+}
+
+.level2
+{
+    color: #8d8d8d;
+    font-family: Gill Sans MT !important;
+    font-variant: small-caps;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 5px 20px;
+    width: 100%;
+    /*background-color: Gray;*/
+}
+
+.level2:hover { background: #585858; color:#e1e1e1 }
+
+.level3
+{
+    color: black;
+    /*background-color: Silver;*/
+    font-family: Gill Sans MT !important;
+    font-size: small;
+}
+.hoverstyle
+{
+    font-weight: bold;
+}

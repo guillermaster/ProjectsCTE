@@ -1,0 +1,88 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Default.master.cs" Inherits="_Default" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Comisión de Tránsito de la provincia del Guayas</title>
+    <link href="CSS/StyleSheet.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div id="top">
+        <div id="insidetop">
+            <h4>
+                Drop Down Menu</h4>
+            <p>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
+                incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. Lorem ipsum
+                dolor sit amet, consectetur adipisicing elit, sed do eiusmod temporall</p>
+            <h5>
+                <a href="#">Your Site Here</a></h5>
+            <h5>
+                <a href="#">Your Site Here</a></h5>
+            <h5>
+                <a href="#">Your Site Here</a></h5>
+            <h5>
+                <a href="#">Your Site Here</a></h5>
+            <h5>
+                <a href="#">Your Site Here</a></h5>
+        </div>
+        <!--insidetop-->
+    </div>
+    <!-- top -->
+    <div id="topline">
+        <div class="contenttop">
+            <a><strong>Bienvenido</strong> NETWORK</a>
+        </div>
+    </div>
+    <!-- topline -->
+    <div id="wrapper">
+        <div class="content">
+            <div id="header">
+                <h1>
+                    <a href="#"><span>Comisión de Tránsito de la Provincia del Guayas</span>Portal de Servicios
+                        en línea</a></h1>
+                <!--<div id="menu">
+                    <ul>
+                        <li><a href="#">home</a></li>
+                        <li class="selected"><a href="#">portfolio</a></li>
+                        <li><a href="#">blog</a></li>
+                        <li><a href="#">about</a></li>
+                        <li><a href="#">contact us</a></li>
+                    </ul>
+                </div>-->
+                <!-- menu -->
+            </div>
+            <!--header-->
+            <asp:ScriptManager ID="ScriptManager1" runat="server" />
+            <div class="sidebar">
+                <asp:ContentPlaceHolder ID="RightColumnContent" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+            <!--sidebar-->
+            <div id="container">
+                <asp:ContentPlaceHolder ID="MainContent" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+            <!--container-->
+        </div>
+        <!--content-->
+    </div>
+    <!--wrapper-->
+    <div id="footer">
+        <div class="content">
+            <a href="#"><span class="leftp">Copyright 2010 Comisión de Tránsito de la Provincia del Guayas</span></a> <a href="http://www.ctg.gov.ec">
+                <span class="rightp">CTG</span></a>
+        </div>
+        <!--content-->
+    </div>
+    <!--footer-->
+    <div>
+        
+        
+    </div>
+    </form>
+</body>
+</html>

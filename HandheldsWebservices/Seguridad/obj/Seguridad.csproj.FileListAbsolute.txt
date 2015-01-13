@@ -1,0 +1,7 @@
+D:\Proyecto\HandheldsWebservices\Seguridad\bin\Debug\Seguridad.dll
+D:\Proyecto\HandheldsWebservices\Seguridad\bin\Debug\Seguridad.pdb
+D:\Proyecto\HandheldsWebservices\Seguridad\bin\Debug\AccesoDatos.dll
+D:\Proyecto\HandheldsWebservices\Seguridad\bin\Debug\AccesoDatos.pdb
+D:\Proyecto\HandheldsWebservices\Seguridad\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyecto\HandheldsWebservices\Seguridad\obj\Debug\Seguridad.dll
+D:\Proyecto\HandheldsWebservices\Seguridad\obj\Debug\Seguridad.pdb

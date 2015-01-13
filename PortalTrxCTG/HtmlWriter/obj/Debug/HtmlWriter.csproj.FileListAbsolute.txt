@@ -1,0 +1,9 @@
+C:\Proyecto\PortalTrxCTG\HtmlWriter\bin\Debug\HtmlWriter.dll
+C:\Proyecto\PortalTrxCTG\HtmlWriter\bin\Debug\HtmlWriter.pdb
+C:\Proyecto\PortalTrxCTG\HtmlWriter\bin\Debug\Constantes.dll
+C:\Proyecto\PortalTrxCTG\HtmlWriter\bin\Debug\AccesoDatos.dll
+C:\Proyecto\PortalTrxCTG\HtmlWriter\bin\Debug\Constantes.pdb
+C:\Proyecto\PortalTrxCTG\HtmlWriter\bin\Debug\AccesoDatos.pdb
+C:\Proyecto\PortalTrxCTG\HtmlWriter\obj\Debug\ResolveAssemblyReference.cache
+C:\Proyecto\PortalTrxCTG\HtmlWriter\obj\Debug\HtmlWriter.dll
+C:\Proyecto\PortalTrxCTG\HtmlWriter\obj\Debug\HtmlWriter.pdb

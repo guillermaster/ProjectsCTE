@@ -1,0 +1,7 @@
+bin\Debug\Canchon.dll
+bin\Debug\Canchon.pdb
+bin\Debug\AccesoDatos.dll
+bin\Debug\AccesoDatos.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Canchon.dll
+obj\Debug\Canchon.pdb

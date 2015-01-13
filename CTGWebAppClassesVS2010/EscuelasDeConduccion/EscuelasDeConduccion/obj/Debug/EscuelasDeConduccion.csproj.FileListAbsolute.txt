@@ -1,0 +1,7 @@
+C:\Proyecto\CTGWebAppClassesVS2010\EscuelasDeConduccion\EscuelasDeConduccion\bin\Debug\EscuelasDeConduccion.dll
+C:\Proyecto\CTGWebAppClassesVS2010\EscuelasDeConduccion\EscuelasDeConduccion\bin\Debug\EscuelasDeConduccion.pdb
+C:\Proyecto\CTGWebAppClassesVS2010\EscuelasDeConduccion\EscuelasDeConduccion\bin\Debug\AccesoDatos.dll
+C:\Proyecto\CTGWebAppClassesVS2010\EscuelasDeConduccion\EscuelasDeConduccion\bin\Debug\AccesoDatos.pdb
+C:\Proyecto\CTGWebAppClassesVS2010\EscuelasDeConduccion\EscuelasDeConduccion\obj\Debug\ResolveAssemblyReference.cache
+C:\Proyecto\CTGWebAppClassesVS2010\EscuelasDeConduccion\EscuelasDeConduccion\obj\Debug\EscuelasDeConduccion.dll
+C:\Proyecto\CTGWebAppClassesVS2010\EscuelasDeConduccion\EscuelasDeConduccion\obj\Debug\EscuelasDeConduccion.pdb

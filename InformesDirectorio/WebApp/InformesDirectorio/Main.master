@@ -1,0 +1,39 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Main.master.cs" Inherits="Main" %>
+
+<%@ Register src="userControls/UserSessionMenu.ascx" tagname="UserSessionMenu" tagprefix="uc1" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Informes del Directorio - Comisi&oacute;n de Tr&aacute;nsito del Ecuador</title>
+    <link rel="stylesheet" href="css/Style.css" />
+    <link rel="stylesheet" href="css/MainMasterPage.css" />
+    <script type="text/javascript" src="js/script.js"></script>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div id="title">
+          <div style="width: 75%; float: left">
+            <div id="logo"> </div>
+            <h1>Comisi&oacute;n de Tr&aacute;nsito del Ecuador</h1>
+            </div>
+            <div style="width: 25%; float: right">
+            <uc1:UserSessionMenu ID="UserSessionMenu1" runat="server" />
+          </div>
+        </div>
+        <div id="subtitle">
+            <h2>Gesti&oacute;n de Informes del Directorio</h2>
+        </div>
+        <div id="main">
+            
+                    <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+                    </asp:ContentPlaceHolder>
+                
+        </div>
+    </form>
+</body>
+</html>

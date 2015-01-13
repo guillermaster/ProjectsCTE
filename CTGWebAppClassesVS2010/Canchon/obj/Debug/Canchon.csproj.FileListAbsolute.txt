@@ -1,0 +1,9 @@
+C:\Proyecto\CTGWebAppClassesVS2010\Canchon\bin\Debug\Canchon.dll
+C:\Proyecto\CTGWebAppClassesVS2010\Canchon\bin\Debug\Canchon.pdb
+C:\Proyecto\CTGWebAppClassesVS2010\Canchon\bin\Debug\AccesoDatos.dll
+C:\Proyecto\CTGWebAppClassesVS2010\Canchon\bin\Debug\Constantes.dll
+C:\Proyecto\CTGWebAppClassesVS2010\Canchon\bin\Debug\AccesoDatos.pdb
+C:\Proyecto\CTGWebAppClassesVS2010\Canchon\bin\Debug\Constantes.pdb
+C:\Proyecto\CTGWebAppClassesVS2010\Canchon\obj\Debug\ResolveAssemblyReference.cache
+C:\Proyecto\CTGWebAppClassesVS2010\Canchon\obj\Debug\Canchon.dll
+C:\Proyecto\CTGWebAppClassesVS2010\Canchon\obj\Debug\Canchon.pdb

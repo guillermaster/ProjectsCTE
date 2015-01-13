@@ -1,0 +1,16 @@
+C:\Documents and Settings\Gpincay\Mis documentos\Visual Studio 2005\Projects\Encriptacion\Encriptacion\obj\Debug\Encriptacion.exe
+C:\Documents and Settings\Gpincay\Mis documentos\Visual Studio 2005\Projects\Encriptacion\Encriptacion\obj\Debug\Encriptacion.pdb
+C:\Documents and Settings\Gpincay\Mis documentos\Visual Studio 2005\Projects\Encriptacion\Encriptacion\bin\Debug\Encriptacion.exe
+C:\Documents and Settings\Gpincay\Mis documentos\Visual Studio 2005\Projects\Encriptacion\Encriptacion\bin\Debug\Encriptacion.pdb
+C:\Documents and Settings\Gpincay\Mis documentos\Visual Studio 2005\Projects\Encriptacion\Encriptacion\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Gpincay\Mis documentos\Visual Studio 2005\Projects\Encriptacion\Encriptacion\obj\Debug\Encriptacion.Form1.resources
+C:\Documents and Settings\Gpincay\Mis documentos\Visual Studio 2005\Projects\Encriptacion\Encriptacion\obj\Debug\Encriptacion.Properties.Resources.resources
+C:\Documents and Settings\Gpincay\Mis documentos\Visual Studio 2005\Projects\Encriptacion\Encriptacion\obj\Debug\Encriptacion.csproj.GenerateResource.Cache
+C:\Proyecto\Encriptacion\Encriptacion\obj\Debug\Encriptacion.exe
+C:\Proyecto\Encriptacion\Encriptacion\obj\Debug\Encriptacion.pdb
+C:\Proyecto\Encriptacion\Encriptacion\bin\Debug\Encriptacion.exe
+C:\Proyecto\Encriptacion\Encriptacion\bin\Debug\Encriptacion.pdb
+C:\Proyecto\Encriptacion\Encriptacion\obj\Debug\ResolveAssemblyReference.cache
+C:\Proyecto\Encriptacion\Encriptacion\obj\Debug\Encriptacion.Form1.resources
+C:\Proyecto\Encriptacion\Encriptacion\obj\Debug\Encriptacion.Properties.Resources.resources
+C:\Proyecto\Encriptacion\Encriptacion\obj\Debug\Encriptacion.csproj.GenerateResource.Cache

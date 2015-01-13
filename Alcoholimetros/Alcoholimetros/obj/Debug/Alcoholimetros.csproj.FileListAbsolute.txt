@@ -1,0 +1,16 @@
+C:\Proyecto\Alcoholimetros\Alcoholimetros\obj\Debug\ResolveAssemblyReference.cache
+C:\Proyecto\Alcoholimetros\Alcoholimetros\obj\Debug\Alcoholimetros.Properties.Resources.resources
+C:\Proyecto\Alcoholimetros\Alcoholimetros\obj\Debug\Alcoholimetros.csproj.GenerateResource.Cache
+C:\Proyecto\Alcoholimetros\Alcoholimetros\bin\Debug\Alcoholimetros.dll
+C:\Proyecto\Alcoholimetros\Alcoholimetros\bin\Debug\Alcoholimetros.pdb
+C:\Proyecto\Alcoholimetros\Alcoholimetros\bin\Debug\AccesoDatos.dll
+C:\Proyecto\Alcoholimetros\Alcoholimetros\bin\Debug\App_Code.dll
+C:\Proyecto\Alcoholimetros\Alcoholimetros\bin\Debug\CitacionesCNTTTSV.dll
+C:\Proyecto\Alcoholimetros\Alcoholimetros\bin\Debug\MatriculacionCNTTTSV.dll
+C:\Proyecto\Alcoholimetros\Alcoholimetros\bin\Debug\UtilitiesCNTTTSV.dll
+C:\Proyecto\Alcoholimetros\Alcoholimetros\bin\Debug\CitacionesCNTTTSV.pdb
+C:\Proyecto\Alcoholimetros\Alcoholimetros\bin\Debug\UtilitiesCNTTTSV.pdb
+C:\Proyecto\Alcoholimetros\Alcoholimetros\bin\Debug\AccesoDatos.pdb
+C:\Proyecto\Alcoholimetros\Alcoholimetros\bin\Debug\MatriculacionCNTTTSV.pdb
+C:\Proyecto\Alcoholimetros\Alcoholimetros\obj\Debug\Alcoholimetros.dll
+C:\Proyecto\Alcoholimetros\Alcoholimetros\obj\Debug\Alcoholimetros.pdb

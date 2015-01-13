@@ -1,0 +1,20 @@
+<Modules>
+  <Module PersistentId="3A861CF2-0FFE-4764-AB58-45CAA11B4081" ModuleId="PortalTrx" />
+  <Module PersistentId="835C9518-C7FD-4AD0-9868-36162D19668C" ModuleId="OptionDropDownList" />
+  <Module PersistentId="BC38F8BC-F695-4EAC-B411-6922AEF9A998" ModuleId="Constantes" />
+  <Module PersistentId="ED2F2D38-4E7E-459A-9C9E-6268CEECFC16" ModuleId="HtmlWriter" />
+  <Module PersistentId="5F3E85F4-85EC-4EE1-9A70-AC9DFCF6C281" ModuleId="CifradoCs" />
+  <Module PersistentId="F2FE322C-CE24-4A37-941F-2551E77170B2" ModuleId="AccesoDatos" />
+  <Module PersistentId="2773D7DB-A17F-479E-ACD6-0CE02E793F19" ModuleId="ComprobanteElectronicoPago" />
+  <Module PersistentId="D39C6D4A-915B-4CD6-AAE3-EDAE4D64A7C4" ModuleId="CorreosDelEcuador" />
+  <Module PersistentId="66A6ECC3-BC72-4E41-8683-8633E9A5D0B6" ModuleId="CaptchaImage" />
+  <Module PersistentId="0D95FD9F-DBA8-4133-B45E-D94196D33DAC" ModuleId="Matriculacion" />
+  <Module PersistentId="B75BB757-3454-4CEE-B150-0F56D9E44330" ModuleId="Canchon" />
+  <Module PersistentId="D31D319B-E918-4E36-8A89-CB7360506783" ModuleId="Utilities" />
+  <Module PersistentId="1404D347-29DD-417F-9C91-E40681C3D7FB" ModuleId="Brevetacion" />
+  <Module PersistentId="721ECC83-A7F8-4837-85A9-19CD3C6B4F88" ModuleId="Citaciones" />
+  <Module PersistentId="F93C7C55-7590-45B8-876D-6F1D85B141CC" ModuleId="ReportesTramites" />
+  <Module PersistentId="543898B2-2C62-4916-B7BC-063A79FCECB0" ModuleId="Seguridad" />
+  <Module PersistentId="ECD65F2A-2011-42E9-A5FB-7FD999E9D391" ModuleId="Usuario" />
+  <Module PersistentId="8DCB0F17-D7F1-4223-9F79-70C9CC8DD556" ModuleId="WebPerformanceTest" />
+</Modules>

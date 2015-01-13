@@ -1,0 +1,33 @@
+C:\Documents and Settings\Gpincay\Mis documentos\Visual Studio 2005\Projects\CTGWebApps\ComprobanteElectronicoPago\bin\Debug\ComprobanteElectronicoPago.dll
+C:\Documents and Settings\Gpincay\Mis documentos\Visual Studio 2005\Projects\CTGWebApps\ComprobanteElectronicoPago\bin\Debug\ComprobanteElectronicoPago.pdb
+C:\Documents and Settings\Gpincay\Mis documentos\Visual Studio 2005\Projects\CTGWebApps\ComprobanteElectronicoPago\bin\Debug\AccesoDatos.dll
+C:\Documents and Settings\Gpincay\Mis documentos\Visual Studio 2005\Projects\CTGWebApps\ComprobanteElectronicoPago\bin\Debug\Constantes.dll
+C:\Documents and Settings\Gpincay\Mis documentos\Visual Studio 2005\Projects\CTGWebApps\ComprobanteElectronicoPago\bin\Debug\Utilities.dll
+C:\Documents and Settings\Gpincay\Mis documentos\Visual Studio 2005\Projects\CTGWebApps\ComprobanteElectronicoPago\bin\Debug\Utilities.pdb
+C:\Documents and Settings\Gpincay\Mis documentos\Visual Studio 2005\Projects\CTGWebApps\ComprobanteElectronicoPago\bin\Debug\AccesoDatos.pdb
+C:\Documents and Settings\Gpincay\Mis documentos\Visual Studio 2005\Projects\CTGWebApps\ComprobanteElectronicoPago\bin\Debug\Constantes.pdb
+C:\Documents and Settings\Gpincay\Mis documentos\Visual Studio 2005\Projects\CTGWebApps\ComprobanteElectronicoPago\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Gpincay\Mis documentos\Visual Studio 2005\Projects\CTGWebApps\ComprobanteElectronicoPago\obj\Debug\ComprobanteElectronicoPago.dll
+C:\Documents and Settings\Gpincay\Mis documentos\Visual Studio 2005\Projects\CTGWebApps\ComprobanteElectronicoPago\obj\Debug\ComprobanteElectronicoPago.pdb
+F:\Proyecto\CTGWebApps\ComprobanteElectronicoPago\bin\Debug\ComprobanteElectronicoPago.dll
+F:\Proyecto\CTGWebApps\ComprobanteElectronicoPago\bin\Debug\ComprobanteElectronicoPago.pdb
+F:\Proyecto\CTGWebApps\ComprobanteElectronicoPago\bin\Debug\AccesoDatos.dll
+F:\Proyecto\CTGWebApps\ComprobanteElectronicoPago\bin\Debug\Constantes.dll
+F:\Proyecto\CTGWebApps\ComprobanteElectronicoPago\bin\Debug\Utilities.dll
+F:\Proyecto\CTGWebApps\ComprobanteElectronicoPago\bin\Debug\Utilities.pdb
+F:\Proyecto\CTGWebApps\ComprobanteElectronicoPago\bin\Debug\AccesoDatos.pdb
+F:\Proyecto\CTGWebApps\ComprobanteElectronicoPago\bin\Debug\Constantes.pdb
+F:\Proyecto\CTGWebApps\ComprobanteElectronicoPago\obj\Debug\ResolveAssemblyReference.cache
+F:\Proyecto\CTGWebApps\ComprobanteElectronicoPago\obj\Debug\ComprobanteElectronicoPago.dll
+F:\Proyecto\CTGWebApps\ComprobanteElectronicoPago\obj\Debug\ComprobanteElectronicoPago.pdb
+C:\Proyecto\CTGWebApps\ComprobanteElectronicoPago\bin\Debug\ComprobanteElectronicoPago.dll
+C:\Proyecto\CTGWebApps\ComprobanteElectronicoPago\bin\Debug\ComprobanteElectronicoPago.pdb
+C:\Proyecto\CTGWebApps\ComprobanteElectronicoPago\bin\Debug\AccesoDatos.dll
+C:\Proyecto\CTGWebApps\ComprobanteElectronicoPago\bin\Debug\Constantes.dll
+C:\Proyecto\CTGWebApps\ComprobanteElectronicoPago\bin\Debug\Utilities.dll
+C:\Proyecto\CTGWebApps\ComprobanteElectronicoPago\bin\Debug\Utilities.pdb
+C:\Proyecto\CTGWebApps\ComprobanteElectronicoPago\bin\Debug\AccesoDatos.pdb
+C:\Proyecto\CTGWebApps\ComprobanteElectronicoPago\bin\Debug\Constantes.pdb
+C:\Proyecto\CTGWebApps\ComprobanteElectronicoPago\obj\Debug\ResolveAssemblyReference.cache
+C:\Proyecto\CTGWebApps\ComprobanteElectronicoPago\obj\Debug\ComprobanteElectronicoPago.dll
+C:\Proyecto\CTGWebApps\ComprobanteElectronicoPago\obj\Debug\ComprobanteElectronicoPago.pdb

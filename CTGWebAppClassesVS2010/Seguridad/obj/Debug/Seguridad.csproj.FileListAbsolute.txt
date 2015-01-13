@@ -1,0 +1,13 @@
+C:\Proyecto\CTGWebAppClassesVS2010\Seguridad\bin\Debug\Seguridad.dll
+C:\Proyecto\CTGWebAppClassesVS2010\Seguridad\bin\Debug\Seguridad.pdb
+C:\Proyecto\CTGWebAppClassesVS2010\Seguridad\bin\Debug\AccesoDatos.dll
+C:\Proyecto\CTGWebAppClassesVS2010\Seguridad\bin\Debug\CifradoCs.dll
+C:\Proyecto\CTGWebAppClassesVS2010\Seguridad\bin\Debug\Constantes.dll
+C:\Proyecto\CTGWebAppClassesVS2010\Seguridad\bin\Debug\Utilities.dll
+C:\Proyecto\CTGWebAppClassesVS2010\Seguridad\bin\Debug\AccesoDatos.pdb
+C:\Proyecto\CTGWebAppClassesVS2010\Seguridad\bin\Debug\CifradoCs.pdb
+C:\Proyecto\CTGWebAppClassesVS2010\Seguridad\bin\Debug\Constantes.pdb
+C:\Proyecto\CTGWebAppClassesVS2010\Seguridad\bin\Debug\Utilities.pdb
+C:\Proyecto\CTGWebAppClassesVS2010\Seguridad\obj\Debug\ResolveAssemblyReference.cache
+C:\Proyecto\CTGWebAppClassesVS2010\Seguridad\obj\Debug\Seguridad.dll
+C:\Proyecto\CTGWebAppClassesVS2010\Seguridad\obj\Debug\Seguridad.pdb

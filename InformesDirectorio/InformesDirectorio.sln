@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccesoDatos", "..\CTGWebAppClassesVS2010\AccesoDatos\AccesoDatos.csproj", "{F2FE322C-CE24-4A37-941F-2551E77170B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeguridadWebAppInt", "..\CTGWebAppClassesVS2010\SeguridadWebAppInt\SeguridadWebAppInt.csproj", "{77F2432E-7D83-42F7-B076-20F9E76CC52C}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "InformesDirectorio", "http://localhost/InformesDirectorio", "{7C555EE2-F5C6-4EB7-A8D9-45D6284387D0}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		ProjectReferences = "{F2FE322C-CE24-4A37-941F-2551E77170B2}|AccesoDatos.dll;{5F3E85F4-85EC-4EE1-9A70-AC9DFCF6C281}|CifradoCs.dll;{BC38F8BC-F695-4EAC-B411-6922AEF9A998}|Constantes.dll;{77F2432E-7D83-42F7-B076-20F9E76CC52C}|SeguridadWebAppInt.dll;{C601D603-522F-4369-B761-55D219237471}|InformesDirectorioExtra.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/InformesDirectorio"
+		Debug.AspNetCompiler.PhysicalPath = "WebApp\InformesDirectorio\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\InformesDirectorio\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/InformesDirectorio"
+		Release.AspNetCompiler.PhysicalPath = "WebApp\InformesDirectorio\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\InformesDirectorio\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "WebApp\InformesDirectorio\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CifradoCs", "..\CTGWebAppClassesVS2010\CifradoCs\CifradoCs.csproj", "{5F3E85F4-85EC-4EE1-9A70-AC9DFCF6C281}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constantes", "..\CTGWebAppClassesVS2010\Constantes\Constantes.csproj", "{BC38F8BC-F695-4EAC-B411-6922AEF9A998}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InformesDirectorioExtra", "InformesDirectorioExtra\InformesDirectorioExtra.csproj", "{C601D603-522F-4369-B761-55D219237471}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2FE322C-CE24-4A37-941F-2551E77170B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2FE322C-CE24-4A37-941F-2551E77170B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2FE322C-CE24-4A37-941F-2551E77170B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2FE322C-CE24-4A37-941F-2551E77170B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77F2432E-7D83-42F7-B076-20F9E76CC52C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77F2432E-7D83-42F7-B076-20F9E76CC52C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77F2432E-7D83-42F7-B076-20F9E76CC52C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77F2432E-7D83-42F7-B076-20F9E76CC52C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C555EE2-F5C6-4EB7-A8D9-45D6284387D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C555EE2-F5C6-4EB7-A8D9-45D6284387D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C555EE2-F5C6-4EB7-A8D9-45D6284387D0}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C555EE2-F5C6-4EB7-A8D9-45D6284387D0}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{5F3E85F4-85EC-4EE1-9A70-AC9DFCF6C281}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F3E85F4-85EC-4EE1-9A70-AC9DFCF6C281}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F3E85F4-85EC-4EE1-9A70-AC9DFCF6C281}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F3E85F4-85EC-4EE1-9A70-AC9DFCF6C281}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC38F8BC-F695-4EAC-B411-6922AEF9A998}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC38F8BC-F695-4EAC-B411-6922AEF9A998}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC38F8BC-F695-4EAC-B411-6922AEF9A998}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC38F8BC-F695-4EAC-B411-6922AEF9A998}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C601D603-522F-4369-B761-55D219237471}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C601D603-522F-4369-B761-55D219237471}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C601D603-522F-4369-B761-55D219237471}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C601D603-522F-4369-B761-55D219237471}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

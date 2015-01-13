@@ -1,0 +1,77 @@
+﻿<%@ master language="C#" autoeventwireup="true" CodeFile="OneColumnV2.master.cs" Inherits="_OneColumn" %>
+
+<%@ Register Src="UserControls/WelcomeTiny.ascx" TagName="WelcomeTiny" TagPrefix="uc1" %>
+<%@ Register Src="UserControls/ShortcutMenu.ascx" TagName="ShortcutMenu" TagPrefix="uc2" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Comisión de Tránsito del Ecuador</title>
+    <script language="javascript" type="text/javascript">
+        if (document.layers) window.captureEvents(Event.MOUSEDOWN);
+        document.oncontextmenu = new Function("return false")
+        document.onselectstart = new Function("return false")
+    </script>
+    <link href="CSS/StyleSheetV2.css" rel="stylesheet" type="text/css" />
+    <link href="CSS/sweetTitles.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server" style="height: 100%">
+    <div id="nonFooter">
+        <div id="contentMain">
+            <div id="topline">
+                <div class="contenttop">
+                    <uc1:WelcomeTiny ID="ucWelcomeTiny1" runat="server" Visible="false" />
+                </div>
+            </div>
+            <!-- topline -->
+            <div id="wrapper">
+                <div class="content">
+
+                    <asp:ScriptManager ID="ScriptManager1" runat="server" />
+                    <div id="container" style="width: 100%">
+                        <div style="height: 15px; text-align: center">
+                            <asp:UpdateProgress ID="UpdateProgress1" runat="server" AssociatedUpdatePanelID="UpdatePanel1"
+                                DisplayAfter="5">
+                                <ProgressTemplate>
+                                    <div>
+                                        <asp:Image ID="Image1" ImageUrl="~/images/ajax-loader.gif" runat="server" />
+                                    </div>
+                                </ProgressTemplate>
+                            </asp:UpdateProgress>
+                        </div>
+                        <asp:UpdatePanel ID="UpdatePanel1" runat="server">
+                            <ContentTemplate>
+                                <div id="divMainContentError" class="left" style="width: 98%" runat="server" visible="false">
+                                </div>
+                                <uc2:ShortcutMenu ID="ShortcutMenu1" runat="server" />
+                                <asp:ContentPlaceHolder ID="MainContent" runat="server">
+                                </asp:ContentPlaceHolder>
+                            </ContentTemplate>
+                        </asp:UpdatePanel>
+                    </div>
+                    <!--container-->
+                </div>
+                <!--content-->
+            </div>
+            <!--wrapper-->
+        </div>
+    </div>
+    <!--nonFooter-->
+    </form>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3155138-3']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</body>
+</html>

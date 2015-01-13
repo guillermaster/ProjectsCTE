@@ -1,0 +1,53 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="LoginMP.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head id="Head1" runat="server">
+    <title>CTE - SRI</title>
+    <meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+    <link rel="stylesheet" type="text/css" href="css/StyleSheet.css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <asp:ScriptManager ID="ScriptManager1" runat="server" />
+    <div id="container" class="group">
+        <div id="header">
+            <img src="images/header.gif" alt="" />
+        </div>
+        <div id="wrapper" style="display: inline-block; clear: both;">
+            <div id="content">
+                <h1>
+                    <asp:Label ID="lblTitulo" runat="server" />
+                </h1>
+                <asp:UpdatePanel ID="UpdatePanel2" runat="server">
+                    <ContentTemplate>
+                        <div style="margin: 10px 0 10px 0;">
+                            <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+                            </asp:ContentPlaceHolder>
+                        </div>
+                        <div style="height: 15px; text-align: center">
+                            <asp:UpdateProgress ID="UpdateProgress2" runat="server" AssociatedUpdatePanelID="UpdatePanel2"
+                                DisplayAfter="5">
+                                <ProgressTemplate>
+                                    <div>
+                                        <asp:Image ID="Image2" ImageUrl="~/images/ajax-loader.gif" runat="server" />
+                                    </div>
+                                </ProgressTemplate>
+                            </asp:UpdateProgress>
+                        </div>
+                        <div style="margin: 10px 0 10px 0;">
+                            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                            </asp:ContentPlaceHolder>
+                        </div>
+                    </ContentTemplate>
+                </asp:UpdatePanel>
+            </div>
+        </div>
+        <div style="background: url('images/cte-footer.jpg') no-repeat; width: 955px; height: 50px;">
+        </div>
+    </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,7 @@
+C:\Proyecto\CTGWebAppClassesVS2008\MatriculacionCNTTTSV\bin\Release\MatriculacionCNTTTSV.dll
+C:\Proyecto\CTGWebAppClassesVS2008\MatriculacionCNTTTSV\bin\Release\MatriculacionCNTTTSV.pdb
+C:\Proyecto\CTGWebAppClassesVS2008\MatriculacionCNTTTSV\bin\Release\AccesoDatos.dll
+C:\Proyecto\CTGWebAppClassesVS2008\MatriculacionCNTTTSV\bin\Release\AccesoDatos.pdb
+C:\Proyecto\CTGWebAppClassesVS2008\MatriculacionCNTTTSV\obj\Release\ResolveAssemblyReference.cache
+C:\Proyecto\CTGWebAppClassesVS2008\MatriculacionCNTTTSV\obj\Release\MatriculacionCNTTTSV.dll
+C:\Proyecto\CTGWebAppClassesVS2008\MatriculacionCNTTTSV\obj\Release\MatriculacionCNTTTSV.pdb

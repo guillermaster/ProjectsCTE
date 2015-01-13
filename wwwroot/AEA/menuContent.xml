@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<AEA Name="Inicio"  URL="Default.aspx">
+  <entidad Name="Administración" URL="" Roles="A_COM, A_AEA">
+    <link Name="Crear Usuario de Matriculación" URL="Seguridad/RegUsuario.aspx?TipoEmpresa=0" Roles="A_AEA" />
+    <link Name="Crear Usuario de Comercializadora" URL="Seguridad/RegUsuario.aspx?TipoEmpresa=1" Roles="A_COM" />
+    <link Name="Consultar Usuarios de Matriculación" URL="Seguridad/ConsUsuarios.aspx?TipoEmpresa=0" Roles="A_AEA" />
+    <link Name="Consultar Usuarios de Comercializadoras" URL="Seguridad/ConsUsuarios.aspx?TipoEmpresa=1" Roles="A_COM" />
+  </entidad>
+  <entidad Name="Comercializadoras" URL="ConsComercializadoras.aspx" Roles="WCOM">
+    <link Name="Nueva comercializadora" URL="Comercializadora.aspx" Roles="WCOM" />
+    <link Name="Consultar comercializadora" URL="ConsComercializadoras.aspx" Roles="WCOM" />
+    <subentidad Name="Sucursales" URL="#" Roles="WCOM">
+      <link Name="Nueva Sucursal" URL="Sucursal.aspx" Roles="WCOM" />
+      <link Name="Consultar Sucursales" URL="ConsSucursales.aspx" Roles="WCOM" />
+    </subentidad>
+  </entidad>
+  <entidad Name="Automotores" URL="ConsModeloAutomotor.aspx" Roles="WAUT, CAUT">
+    <link Name="Nueva automotor" URL="ModeloAutomotor.aspx" Roles="WAUT" />
+    <link Name="Consulta automotor" URL="ConsModeloAutomotor.aspx" Roles="WAUT, CAUT" />
+    <link Name="Listado de Automotores" URL="ConsModeloAutomotorLista.aspx" Roles="WAUT, CAUT" />    
+  </entidad>
+  <entidad Name="Gestores" URL="ConsGestores.aspx" Roles="WGES">
+    <link Name="Nuevo gestor" URL="RegGestores.aspx" Roles="WGES" />
+    <link Name="Consulta gestores" URL="ConsGestores.aspx" Roles="WGES" />
+  </entidad>
+  <entidad Name="Matriculación" URL="" Roles="WSOLM, WCREP, CAUT">
+    <link Name="Nueva Solicitud" URL="RegSolMatricula.aspx" Roles="WSOLM, WCREP" />
+    <subentidad Name="Consulta solicitudes" URL="ConsSolMatriculas.aspx" Roles="WSOLM, WCREP, CAUT">
+    </subentidad>
+    <subentidad Name="Consulta solicitudes recibidas en CTG" URL="ConsSolMatriculasCTG.aspx" Roles="WSOLM, WCREP, CAUT">
+    </subentidad>
+    <link Name="Asignación de Gestores" URL="AsignaGestorSolMatricula.aspx" Roles="WSOLM" />
+  </entidad>
+  <entidad Name="Otros" URL="" Roles="WCOM, WCREP, WSOLM, WAUT, WGES, A_COM, A_AEA">
+    <link Name="Cambio de Contraseña" URL="Seguridad/ChangePassword.aspx" Roles="WCOM, WCREP, WSOLM, WAUT, WGES, A_COM, A_AEA" />
+    <link Name="Deudas de usuarios con CTG" URL="ConsDeudaCompradoresAuto.aspx" Roles="WCOM, WCREP, WSOLM, A_COM" />
+  </entidad>
+</AEA>
+<!--
+A_COM = Rol Maestro de Comercializadoras
+A_AEA = Rol Maestro de AEA
+WSOLM = Solicitud y Desactivación de Matrícula
+WCREP = Representante Legal de Comercializadora
+WCOM  = Mantenimiento de Comercializadoras
+WAUT  = Mantenimiento de Automotores
+WGES  = Mantenimiento de Gestores Autorizados
+-->

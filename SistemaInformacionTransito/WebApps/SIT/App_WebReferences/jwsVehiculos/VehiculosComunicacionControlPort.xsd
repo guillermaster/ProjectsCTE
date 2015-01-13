@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://control.cte.gob/" targetNamespace="http://control.cte.gob/" version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="obtenerVehiculoIdentificacion" type="tns:obtenerVehiculoIdentificacion" />
+  <xs:element name="obtenerVehiculoIdentificacionResponse" type="tns:obtenerVehiculoIdentificacionResponse" />
+  <xs:element name="obtenerVehiculoPlacaChasis" type="tns:obtenerVehiculoPlacaChasis" />
+  <xs:element name="obtenerVehiculoPlacaChasisResponse" type="tns:obtenerVehiculoPlacaChasisResponse" />
+  <xs:complexType name="obtenerVehiculoIdentificacion">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="arg0" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="obtenerVehiculoIdentificacionResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="return" type="tns:vehiculoUtil" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="vehiculoUtil">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="caducidadMatricula" type="xs:string" />
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="lsBloqueo" nillable="true" type="tns:bloqueoUtil" />
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="lsMatriculacion" nillable="true" type="tns:matriculacionUtil" />
+      <xs:element minOccurs="0" name="pv_anio" type="xs:string" />
+      <xs:element minOccurs="0" name="pv_camv" type="xs:string" />
+      <xs:element minOccurs="0" name="pv_canton_cir" type="xs:string" />
+      <xs:element minOccurs="0" name="pv_chasis" type="xs:string" />
+      <xs:element minOccurs="0" name="pv_cilindraje" type="xs:string" />
+      <xs:element minOccurs="0" name="pv_clase_servicio" type="xs:string" />
+      <xs:element minOccurs="0" name="pv_clase_tipo" type="xs:string" />
+      <xs:element minOccurs="0" name="pv_color" type="xs:string" />
+      <xs:element minOccurs="0" name="pv_error" type="xs:string" />
+      <xs:element minOccurs="0" name="pv_fecha_compra" type="xs:string" />
+      <xs:element minOccurs="0" name="pv_marca" type="xs:string" />
+      <xs:element minOccurs="0" name="pv_modelo_vehiculo" type="xs:string" />
+      <xs:element minOccurs="0" name="pv_num_motor" type="xs:string" />
+      <xs:element minOccurs="0" name="pv_pais" type="xs:string" />
+      <xs:element minOccurs="0" name="pv_placa" type="xs:string" />
+      <xs:element minOccurs="0" name="pv_tipo_servicio" type="xs:string" />
+      <xs:element minOccurs="0" name="pv_tonelaje" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="bloqueoUtil">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="descripcion" type="xs:string" />
+      <xs:element minOccurs="0" name="fechaRegistro" type="xs:string" />
+      <xs:element minOccurs="0" name="tbloqueo" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="matriculacionUtil">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="anioMatricula" type="xs:string" />
+      <xs:element minOccurs="0" name="clContratos" type="xs:string" />
+      <xs:element minOccurs="0" name="clPersonas" type="xs:string" />
+      <xs:element minOccurs="0" name="fechaRegistro" type="xs:string" />
+      <xs:element minOccurs="0" name="idInfraestructura" type="xs:string" />
+      <xs:element minOccurs="0" name="idSecuencia" type="xs:string" />
+      <xs:element minOccurs="0" name="placa" type="xs:string" />
+      <xs:element minOccurs="0" name="tipoCobro" type="xs:string" />
+      <xs:element minOccurs="0" name="tipoMatricula" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="obtenerVehiculoPlacaChasis">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="arg0" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="obtenerVehiculoPlacaChasisResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="return" type="tns:vehiculoUtil" />
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="SchemaActaNotificacion" targetNamespace="http://tempuri.org/SchemaActaNotificacion.xsd" elementFormDefault="qualified" xmlns="http://tempuri.org/SchemaActaNotificacion.xsd" xmlns:mstns="http://tempuri.org/SchemaActaNotificacion.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="DatosResporte">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="CIUDAD" type="xs:string" />
+        <xs:element name="FECHA_NOTIFICACION" type="xs:dateTime" />
+        <xs:element name="JUZGADO" type="xs:string" />
+        <xs:element name="PROVINCIA" type="xs:string" />
+        <xs:element name="CITACION" type="xs:int" />
+        <xs:element name="NOMBRE_INFRACTOR" type="xs:string" />
+        <xs:element name="IDEN_INFRACTOR" type="xs:string" />
+        <xs:element name="UNIFORMADO" type="xs:string" />
+        <xs:element name="FECHA_NOTIFICACION_FIN" type="xs:date" />
+        <xs:element name="DIRECCION_JUZGADO" type="xs:string" />
+        <xs:element name="NOMBRE_SECRETARIO" type="xs:string" />
+        <xs:element name="NUM_NOTIFICACION" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSetReporteTramite" targetNamespace="http://tempuri.org/DataSetReporteTramite.xsd" xmlns:mstns="http://tempuri.org/DataSetReporteTramite.xsd" xmlns="http://tempuri.org/DataSetReporteTramite.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSetReporteTramite" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="DataSetReporteTramite" msprop:Generator_UserDSName="DataSetReporteTramite">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTableReporte" msprop:Generator_TableClassName="DataTableReporteDataTable" msprop:Generator_TableVarName="tableDataTableReporte" msprop:Generator_TablePropName="DataTableReporte" msprop:Generator_RowDeletingName="DataTableReporteRowDeleting" msprop:Generator_UserTableName="DataTableReporte" msprop:Generator_RowChangingName="DataTableReporteRowChanging" msprop:Generator_RowEvHandlerName="DataTableReporteRowChangeEventHandler" msprop:Generator_RowDeletedName="DataTableReporteRowDeleted" msprop:Generator_RowEvArgName="DataTableReporteRowChangeEvent" msprop:Generator_RowChangedName="DataTableReporteRowChanged" msprop:Generator_RowClassName="DataTableReporteRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="codigo" msprop:Generator_ColumnVarNameInTable="columncodigo" msprop:Generator_ColumnPropNameInRow="codigo" msprop:Generator_ColumnPropNameInTable="codigoColumn" msprop:Generator_UserColumnName="codigo" type="xs:string" minOccurs="0" />
+              <xs:element name="tituloTramite" msprop:Generator_ColumnVarNameInTable="columntituloTramite" msprop:Generator_ColumnPropNameInRow="tituloTramite" msprop:Generator_ColumnPropNameInTable="tituloTramiteColumn" msprop:Generator_UserColumnName="tituloTramite" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

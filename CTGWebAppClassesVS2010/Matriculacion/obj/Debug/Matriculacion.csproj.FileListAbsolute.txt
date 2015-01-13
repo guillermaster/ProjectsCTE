@@ -1,0 +1,14 @@
+C:\Proyecto\CTGWebAppClassesVS2008\Matriculacion\bin\Debug\Matriculacion.dll
+C:\Proyecto\CTGWebAppClassesVS2008\Matriculacion\bin\Debug\Matriculacion.pdb
+C:\Proyecto\CTGWebAppClassesVS2008\Matriculacion\bin\Debug\AccesoDatos.dll
+C:\Proyecto\CTGWebAppClassesVS2008\Matriculacion\bin\Debug\AccesoDatos.pdb
+C:\Proyecto\CTGWebAppClassesVS2008\Matriculacion\obj\Debug\ResolveAssemblyReference.cache
+C:\Proyecto\CTGWebAppClassesVS2008\Matriculacion\obj\Debug\Matriculacion.dll
+C:\Proyecto\CTGWebAppClassesVS2008\Matriculacion\obj\Debug\Matriculacion.pdb
+C:\Proyecto\CTGWebAppClassesVS2010\Matriculacion\bin\Debug\Matriculacion.dll
+C:\Proyecto\CTGWebAppClassesVS2010\Matriculacion\bin\Debug\Matriculacion.pdb
+C:\Proyecto\CTGWebAppClassesVS2010\Matriculacion\bin\Debug\AccesoDatos.dll
+C:\Proyecto\CTGWebAppClassesVS2010\Matriculacion\bin\Debug\AccesoDatos.pdb
+C:\Proyecto\CTGWebAppClassesVS2010\Matriculacion\obj\Debug\ResolveAssemblyReference.cache
+C:\Proyecto\CTGWebAppClassesVS2010\Matriculacion\obj\Debug\Matriculacion.dll
+C:\Proyecto\CTGWebAppClassesVS2010\Matriculacion\obj\Debug\Matriculacion.pdb

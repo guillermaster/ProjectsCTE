@@ -1,0 +1,9 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\SeguridadWebAppInt.dll
+bin\Debug\SeguridadWebAppInt.pdb
+bin\Debug\AccesoDatos.dll
+bin\Debug\AccesoDatos.pdb
+obj\Debug\SeguridadWebAppInt.dll
+obj\Debug\SeguridadWebAppInt.pdb
+bin\Debug\CifradoCs.dll
+bin\Debug\CifradoCs.pdb

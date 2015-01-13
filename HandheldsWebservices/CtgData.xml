@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<!-- Se Envia la placa y me retorna la data como sigue:...-->
+<Automotor vehiculo="ABC123">		
+	       <Bloqueos>
+                     <bloqueo1>
+			<tipo>Reserva de Dominio</tipo>
+			<Mensaje>Bloqueo por Concesionario</Mensaje>
+                        <estado>True/False</estado>
+	             </bloqueo1>            
+                     <bloqueo2></bloqueo2>
+                     <bloqueo3></bloqueo3>
+  	       </Bloqueos>
+               <Novedades> 			
+			<Novedad1> 
+				<Nombre>Diferencia de Matricula</Nombre>
+				<Mensaje> Se indica el mensaje de error en el caso que no haya cancelado </Mensaje>
+				<Solucion> Se indica el mensaje de solucion en caso de que exista error</Solucion>
+                                <estado>True/False</estado>
+			</Novedad1>
+
+			<Novedad2>  </Novedad2>
+			<Novedad3>  </Novedad3>
+			<Novedad4>  </Novedad4>
+			<Novedad5>  </Novedad5>
+
+		</Novedades>
+		
+		<Valores> 
+		<!--Valores debe tener un item por lo menos a validar-->
+			<Valor1>				
+				<Nombre> RUC </Nombre>
+				<Valor> $50 </Valor>
+				<Obligatorio> True/False </Obligatorio>
+				<Mensaje> Se indica el mensaje de error en el caso que no haya cancelado </Mensaje>
+			</Valor1>
+			<Valor2></Valor2>
+			<Valor3></Valor3>
+		</Valores>
+		
+		<Revision>		
+			<Propietario>
+			<!-- Se parte de la premisa que estos campos son obligatorios a validar-->				
+				<Nombre> Gustavo Sierra </Nombre>	
+				<identificacion> 0914916754 </identificacion>							
+			</Propietario>
+			
+			<Vehiculo> 
+			<!-- Esta data se recibira de manera ordenada tal cual se desea en la pantalla-->
+			<!-- Se parte de la premisa que estos campos son obligatorios a validar-->
+				<Placa>GGU150</Placa>
+				<RAMV>123457</RAMV>
+				<Marca> Mitsubishi </Marca>				
+				<Modelo> Lancer Glx </Modelo>
+				<Chasis> 1564464231546fasfs</Chasis>
+				<Motor> afsf467356fasf</Motor>
+				<Servicio>Particular</Servicio>
+				<clase> Auto </clase>
+				<Tipo> Sedan </Tipo>						
+				<Color> Gris </Color>
+				<Combustible> Gasolina </Combustible>
+				<Carroceria> Gasolina </Carroceria>
+				<Tonelaje>0.75</Tonelaje>
+				<Cilindraje>500</Cilindraje>
+				<Ejes>3</Ejes>
+				<Anio> 1994 </Anio>			
+				<Pais>Corea</Pais>
+				<Mensaje> Se indica el mensaje de error en el caso que no sean correctos los datos del Vehiculo </Mensaje>
+			</Vehiculo>	
+			
+			<CaracteristicasLey>			
+				<Requisito1> 
+					<Codigo>1234</Codigo> <!--Permite Saber que codigo se envia para guardar luego en base-->
+					<Nombre> Extintor </Nombre>
+					<Obligatorio> True/False </Obligatorio>
+					<detalle>S/N</detalle> <!-- s = TextBox  / N = CheckBox
+				</Requisito1>
+				
+				<Requisito2>
+					<Codigo>1234</Codigo> <!--Permite Saber que codigo se envia para guardar luego en base-->
+					<Nombre> ETC </Nombre>
+					<Obligatorio> True/False </Obligatorio>	
+                                        <detalle>S/N</detalle> <!-- s = TextBox  / N = CheckBox				
+				</Requisito2>							
+			</CaracteristicasLey>
+		</Revision>
+</Automotor>
+

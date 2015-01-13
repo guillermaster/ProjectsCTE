@@ -1,0 +1,59 @@
+BODY {
+	MARGIN: 0px; SCROLLBAR-BASE-COLOR: #8694b3; BACKGROUND-COLOR: #F0F0F0
+	
+}
+.whiteTitle  { font-family: Verdana; font-size: 8pt; color: #FFFFFF; text-decoration: none; font-weight: bold }
+.whiteTitle2  { font-family: Verdana; font-size: 7pt; color: #FFFFFF; text-decoration: none; font-weight: bold }
+.whiteText  { font-family: Verdana; font-size: 9pt; color: #FFFFFF; text-decoration: none; font-weight: normal }
+.whiteText2  { font-family: Verdana; font-size: 8pt; color: #FFFFFF; text-decoration: none; font-weight: normal }
+
+.whiteTitle3  { font-family: verdana; font-size: 12pt; color: #FFFFFF; text-decoration: none; font-weight: bold }
+.whiteTitle4  { font-family: Verdana; font-size: 10pt; color: #FFFFFF; text-decoration: none; font-weight: bold }
+.whiteTitle1  { font-family: Verdana; font-size: 9pt; color: #FFFFFF; text-decoration: none; font-weight: bold }
+.whiteTitle6  { font-family: Verdana; font-size: 20pt; color: #FFFFFF; text-decoration: none; font-weight: bold }
+
+
+
+.Bluetitle1  { font-family: Verdana; font-size: 8pt; color: #183063; text-decoration: none; font-weight: bold }
+.redtitle1   { font-family: Verdana; font-size: 7pt; color: #c60003; text-decoration: none; font-weight: bold }
+.redtitle2   { font-family: Verdana; font-size: 8pt; color: #c60003; text-decoration: none; font-weight: bold }
+.redTitle3  { font-family: Verdana; font-size: 12pt; color: #c60003; text-decoration: none; font-weight: bold }
+.redtitle4   { font-family: Verdana; font-size: 10pt; color: #c60003; text-decoration: none; font-weight: bold }
+.redtitle5   { font-family: verdana; font-size: 20pt; color: #c60003; text-decoration: none; font-weight: bold }
+
+
+
+
+.boton  { font-family: Verdana; font-size: 7pt; color: #990000; text-decoration: none; font-weight: bold }
+a.linkTitle { font-family: Verdana; font-size: 7pt; color: #000000; text-decoration: none; font-weight: normal }
+a.linkTitle:hover { font-family: Verdana; font-size: 7pt; color: #990000; text-decoration: underline; font-weight: normal }
+
+
+a { font-family: Verdana; font-size: 7pt; color: #990000; text-decoration: underline; font-weight: bold }
+a:hover { font-family: Verdana; font-size: 7pt; color: #0077FF; text-decoration: underline; font-weight: bold }
+a:visited { font-family: Verdana; font-size: 7pt;  color: #FF3399  ; text-decoration: underline; font-weight: bold }
+
+h1 { font-family: Verdana; font-size: 12pt; color: #000000; text-decoration: none; font-weight: bold }
+h2 { font-family: Verdana; font-size: 10pt; color: #000000; text-decoration: none; font-weight: bold }
+
+.blackTitle1  { font-family: Verdana; font-size: 7pt; color: #000000; text-decoration: none; font-weight: bold }
+.blackText1  { font-family: Verdana; font-size: 7pt; color: #000000; text-decoration: none; font-weight: normal; }
+
+.blackTitle2  { font-family: Verdana; font-size: 8pt; color: #000000; text-decoration: none; font-weight: bold }
+.blackText2  { font-family: Verdana; font-size: 8pt; color: #000000; text-decoration: none; font-weight: normal; }
+.blackTitle3  { font-family: Verdana; font-size: 9pt; color: #000000; text-decoration: none; font-weight: bold }
+
+.bulletCell  { background-image:     url(file:///C|/Inetpub/wwwroot/Paginas/content_files/bullet.gif); background-repeat: no-repeat; background-position: center }
+.style1 {
+	font-size: 7pt;
+	font-family: Verdana;
+}
+.style2 {
+	font-size: 7pt;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #000000;
+	font-style: italic;
+}
+
+.style3 {font-family: Verdana; font-size: 7pt; color: #000000; text-decoration: none; font-weight: bold; font-style:normal }
+.style4 {font-family: Verdana; font-size: 14pt; color: #000000; text-decoration: none; font-weight: bold; font-style:normal }

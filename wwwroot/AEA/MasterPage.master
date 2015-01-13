@@ -1,0 +1,92 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title>Comisión de Tránsito de la Provincia del Guayas</title>
+    <link rel="stylesheet" type="text/css" media="screen,projection,print" href="css/layout4_setup.css" />
+    <link rel="stylesheet" type="text/css" media="screen,projection,print" href="css/layout4_text.css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <asp:XmlDataSource ID="XmlDataSource1" runat="server" DataFile="~/menuContent.xml"></asp:XmlDataSource>
+            <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; height: 100%">
+                <tr>
+                    <td colspan="2" style="height: 79px; background-color: #546d93" align="left" valign="top">
+                        <table width="100%">
+                          <tr>
+                            <td>
+                            <table width="99%">
+                             <tr>
+                              <td width="70%"><asp:Image ID="imgCTGAEA" ImageUrl="~/img/CTG-AEA.gif" runat="server" /></td>
+                              <td width="30%" align="right" valign="middle">
+                                <asp:Image ID="imgUser" runat="server" ImageUrl="~/img/ico_user.gif" />&nbsp;<asp:Label ID="lblUsuario" runat="server" Text=""></asp:Label>
+                                <br /> 
+                                  <asp:Label ID="lblEmpresa" runat="server" Text=""></asp:Label>                               
+                                <br /><asp:ImageButton ID="ImageButton1" runat="server" ImageUrl="~/img/cerrar-sesion.gif" ImageAlign="Right" OnClick="ImageButton1_Click" CausesValidation="False"  />
+                              </td>
+                             </tr>
+                            </table>
+                           </td>
+                          </tr>
+                          <tr>
+                            <td>
+                            <asp:Menu ID="Menu1" runat="server" BackColor="#E3EAEB" DataSourceID="XmlDataSource1"
+                            DynamicHorizontalOffset="2" Font-Names="Verdana" Font-Size="0.8em" ForeColor="#666666"
+                            MaximumDynamicDisplayLevels="5" Orientation="Horizontal" StaticDisplayLevels="2"
+                            StaticSubMenuIndent="10px" OnMenuItemDataBound="OnMenuItemDataBound" Visible="true">
+                            <StaticSelectedStyle BackColor="#1C5E55" />
+                            <StaticMenuItemStyle Font-Size="Small" HorizontalPadding="5px" VerticalPadding="2px" />
+                            <DynamicHoverStyle BackColor="#666666" ForeColor="White" />
+                            <DynamicMenuStyle BackColor="#E3EAEB" />
+                            <DynamicSelectedStyle BackColor="#1C5E55" />
+                            <DynamicMenuItemStyle Font-Size="Small" HorizontalPadding="5px" VerticalPadding="2px" />
+                            <DataBindings>
+                                <asp:MenuItemBinding DataMember="AEA" NavigateUrlField="URL" TextField="Name" />
+                                <asp:MenuItemBinding DataMember="entidad" TextField="Name" NavigateUrlField="URL" ValueField="Roles" />
+                                <asp:MenuItemBinding DataMember="subentidad" NavigateUrlField="URL" TextField="Name" ValueField="Roles" />
+                                <asp:MenuItemBinding DataMember="link" NavigateUrlField="URL" TextField="Name" ValueField="Roles" />
+                            </DataBindings>
+                            <StaticHoverStyle BackColor="#666666" ForeColor="White" />
+                        </asp:Menu>
+                        <asp:Menu ID="Menu2" runat="server" DataSourceID="XmlDataSource1"
+                            MaximumDynamicDisplayLevels="5" Orientation="Horizontal" StaticDisplayLevels="2" OnMenuItemDataBound="OnMenuItemDataBound" CssClass="Menu">
+                            <StaticMenuStyle CssClass="primaryStaticMenu"/>
+        <StaticMenuItemStyle CssClass="primaryStaticMenuItem"/>
+        <StaticHoverStyle CssClass="primaryStaticHover"/>   
+        <DynamicMenuStyle CssClass="primaryDynamicMenu" />     
+        <DynamicMenuItemStyle CssClass="primaryDynamicMenuItem"/>
+        <DynamicHoverStyle CssClass="primaryDynamicHover"/>
+                            <DataBindings>
+                                <asp:MenuItemBinding DataMember="AEA" NavigateUrlField="URL" TextField="Name" />
+                                <asp:MenuItemBinding DataMember="entidad" TextField="Name" NavigateUrlField="URL" ValueField="Roles" />
+                                <asp:MenuItemBinding DataMember="subentidad" NavigateUrlField="URL" TextField="Name" ValueField="Roles" />
+                                <asp:MenuItemBinding DataMember="link" NavigateUrlField="URL" TextField="Name" ValueField="Roles" />
+                            </DataBindings>
+                        </asp:Menu>
+                            </td>
+                            <td></td>
+                          </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td bgcolor="AliceBlue" style="padding: 8px 0px 1px 10px" valign="middle"><asp:Label ID="lblTitle" runat="server" CssClass="h1" /></td>
+                </tr>
+                <tr>
+                    <td valign="top">
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server" >
+                                </asp:ContentPlaceHolder>
+                    </td>
+                </tr>
+                <!--<tr>
+                    <td colspan="2" style="height: 10px; background-color: #546d93; color:#ffffff" align="center">
+                        Copyright &copy; 2009 Comisión de Tránsito de la Provincia del Guayas.
+                    </td>
+                </tr>-->
+            </table>
+            &nbsp;
+        </div>
+    </form>
+</body>
+</html>

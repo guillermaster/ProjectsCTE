@@ -1,0 +1,9 @@
+a.linkTitle { font-family: Verdana; font-size: 9pt; color: #000000; text-decoration: none; font-weight: normal }
+a.linkTitle:hover { font-family: Verdana; font-size: 9pt; color: #ffffff; text-decoration: underline; font-weight: normal }
+
+
+a { font-family: Verdana; font-size: 7pt; color: #ffffff; text-decoration: underline; font-weight: bold }
+a:hover { font-family: Verdana; font-size: 7pt; color: #ffffff; text-decoration: underline; font-weight: bold }
+a:visited { font-family: Verdana; font-size: 7pt;  color: #ffffff  ; text-decoration: underline; font-weight: bold }
+
+.whiteTitle4  { font-family: Verdana; font-size: 10pt; color: #FFFFFF; text-decoration: none; font-weight: bold }

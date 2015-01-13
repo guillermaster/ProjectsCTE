@@ -1,0 +1,7 @@
+D:\CTGWebAppClasses\Cuestionarios\bin\Debug\Cuestionarios.dll
+D:\CTGWebAppClasses\Cuestionarios\bin\Debug\Cuestionarios.pdb
+D:\CTGWebAppClasses\Cuestionarios\bin\Debug\AccesoDatos.dll
+D:\CTGWebAppClasses\Cuestionarios\bin\Debug\AccesoDatos.pdb
+D:\CTGWebAppClasses\Cuestionarios\obj\Debug\ResolveAssemblyReference.cache
+D:\CTGWebAppClasses\Cuestionarios\obj\Debug\Cuestionarios.dll
+D:\CTGWebAppClasses\Cuestionarios\obj\Debug\Cuestionarios.pdb

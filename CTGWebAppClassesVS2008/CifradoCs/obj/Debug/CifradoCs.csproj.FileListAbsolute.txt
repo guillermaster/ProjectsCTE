@@ -1,0 +1,5 @@
+C:\Proyecto\CTGWebAppClassesVS2008\CifradoCs\bin\Debug\CifradoCs.dll
+C:\Proyecto\CTGWebAppClassesVS2008\CifradoCs\bin\Debug\CifradoCs.pdb
+C:\Proyecto\CTGWebAppClassesVS2008\CifradoCs\obj\Debug\ResolveAssemblyReference.cache
+C:\Proyecto\CTGWebAppClassesVS2008\CifradoCs\obj\Debug\CifradoCs.dll
+C:\Proyecto\CTGWebAppClassesVS2008\CifradoCs\obj\Debug\CifradoCs.pdb

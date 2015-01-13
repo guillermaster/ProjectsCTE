@@ -1,0 +1,14 @@
+C:\Proyecto\CTGWebAppClassesVS2008\Constantes\bin\Debug\Constantes.dll
+C:\Proyecto\CTGWebAppClassesVS2008\Constantes\bin\Debug\Constantes.pdb
+C:\Proyecto\CTGWebAppClassesVS2008\Constantes\bin\Debug\AccesoDatos.dll
+C:\Proyecto\CTGWebAppClassesVS2008\Constantes\bin\Debug\AccesoDatos.pdb
+C:\Proyecto\CTGWebAppClassesVS2008\Constantes\obj\Debug\ResolveAssemblyReference.cache
+C:\Proyecto\CTGWebAppClassesVS2008\Constantes\obj\Debug\Constantes.dll
+C:\Proyecto\CTGWebAppClassesVS2008\Constantes\obj\Debug\Constantes.pdb
+C:\Proyecto\CTGWebAppClassesVS2010\Constantes\bin\Debug\Constantes.dll
+C:\Proyecto\CTGWebAppClassesVS2010\Constantes\bin\Debug\Constantes.pdb
+C:\Proyecto\CTGWebAppClassesVS2010\Constantes\bin\Debug\AccesoDatos.dll
+C:\Proyecto\CTGWebAppClassesVS2010\Constantes\bin\Debug\AccesoDatos.pdb
+C:\Proyecto\CTGWebAppClassesVS2010\Constantes\obj\Debug\ResolveAssemblyReference.cache
+C:\Proyecto\CTGWebAppClassesVS2010\Constantes\obj\Debug\Constantes.dll
+C:\Proyecto\CTGWebAppClassesVS2010\Constantes\obj\Debug\Constantes.pdb

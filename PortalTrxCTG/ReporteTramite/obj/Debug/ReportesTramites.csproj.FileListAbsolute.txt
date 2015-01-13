@@ -1,0 +1,5 @@
+C:\Proyecto\PortalTrxCTG\ReporteTramite\bin\Debug\ReporteTramite.dll
+C:\Proyecto\PortalTrxCTG\ReporteTramite\bin\Debug\ReporteTramite.pdb
+C:\Proyecto\PortalTrxCTG\ReporteTramite\obj\Debug\ResolveAssemblyReference.cache
+C:\Proyecto\PortalTrxCTG\ReporteTramite\obj\Debug\ReporteTramite.dll
+C:\Proyecto\PortalTrxCTG\ReporteTramite\obj\Debug\ReporteTramite.pdb

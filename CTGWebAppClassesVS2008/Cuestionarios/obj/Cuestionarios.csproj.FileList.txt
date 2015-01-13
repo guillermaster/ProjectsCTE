@@ -1,0 +1,14 @@
+bin\Debug\Cuestionarios.dll
+bin\Debug\Cuestionarios.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Cuestionarios.dll
+obj\Debug\Cuestionarios.pdb
+bin\Debug\AccesoDatos.dll
+bin\Debug\AccesoDatos.pdb
+bin\Release\Cuestionarios.dll
+bin\Release\Cuestionarios.pdb
+bin\Release\AccesoDatos.dll
+bin\Release\AccesoDatos.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Cuestionarios.dll
+obj\Release\Cuestionarios.pdb

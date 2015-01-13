@@ -1,0 +1,28 @@
+﻿<%--
+Default skin template. The following skins are provided as examples only.
+
+1. Named control skin. The SkinId should be uniquely defined because
+   duplicate SkinId's per control type are not allowed in the same theme.
+
+<asp:GridView runat="server" SkinId="gridviewSkin" BackColor="White" >
+   <AlternatingRowStyle BackColor="Blue" />
+</asp:GridView>
+
+2. Default skin. The SkinId is not defined. Only one default 
+   control skin per control type is allowed in the same theme.
+
+<asp:Image runat="server" ImageUrl="~/images/image1.jpg" />
+--%>
+<asp:Label runat="server" Width="140px" style="margin: 2px 0 2px 0;" />
+<asp:Label runat="server" Width="100%" style="margin: 2px 0 2px 0;" SkinId="Large" />
+<asp:TextBox runat="server" Width="280px" style="margin: 2px 0 2px 0;" />
+<asp:TextBox runat="server" Width="105px" style="margin: 2px 0 2px 0;" SkinId="skinMedium" />
+<asp:DropDownList runat="server" Width="100px" style="margin: 2px 0 2px 0;" />
+<asp:RequiredFieldValidator runat="server"  Font-Size="Small" ForeColor="Red" />
+<asp:RegularExpressionValidator runat="server" Font-Size="X-Small" ForeColor="Red" />
+<asp:Accordion runat="server" FadeTransitions="True" FramesPerSecond="50"
+     TransitionDuration="200" HeaderCssClass="accordionCabecera" ContentCssClass="accordionContenido" />
+
+<asp:Login runat="server" FailureText="Login fallido. Por favor, intente nuevamente." LoginButtonText="Iniciar Sesión" PasswordLabelText="Contraseña:" PasswordRecoveryUrl="~/LoginExtra/LostPassword.aspx" RememberMeText="Guardar contraseña" TitleText="" UserNameLabelText="Cédula:" Width="266px" BorderStyle="None" PasswordRequiredErrorMessage="Debe ingresar la contraseña." UserNameRequiredErrorMessage="Debe ingresar el nombre de usuario.">
+    <FailureTextStyle Font-Bold="True" />
+</asp:Login>

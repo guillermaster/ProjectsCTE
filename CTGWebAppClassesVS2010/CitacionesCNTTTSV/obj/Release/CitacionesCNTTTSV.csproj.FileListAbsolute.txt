@@ -1,0 +1,7 @@
+C:\Proyecto\CTGWebAppClassesVS2008\CitacionesCNTTTSV\bin\Release\CitacionesCNTTTSV.dll
+C:\Proyecto\CTGWebAppClassesVS2008\CitacionesCNTTTSV\bin\Release\CitacionesCNTTTSV.pdb
+C:\Proyecto\CTGWebAppClassesVS2008\CitacionesCNTTTSV\bin\Release\AccesoDatos.dll
+C:\Proyecto\CTGWebAppClassesVS2008\CitacionesCNTTTSV\bin\Release\AccesoDatos.pdb
+C:\Proyecto\CTGWebAppClassesVS2008\CitacionesCNTTTSV\obj\Release\ResolveAssemblyReference.cache
+C:\Proyecto\CTGWebAppClassesVS2008\CitacionesCNTTTSV\obj\Release\CitacionesCNTTTSV.dll
+C:\Proyecto\CTGWebAppClassesVS2008\CitacionesCNTTTSV\obj\Release\CitacionesCNTTTSV.pdb

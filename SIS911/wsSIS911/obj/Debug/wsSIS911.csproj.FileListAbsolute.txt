@@ -1,0 +1,17 @@
+C:\Proyecto\SIS911\wsSIS911\obj\Debug\ResolveAssemblyReference.cache
+C:\Proyecto\SIS911\wsSIS911\bin\wsSIS911.dll
+C:\Proyecto\SIS911\wsSIS911\bin\wsSIS911.pdb
+C:\Proyecto\SIS911\wsSIS911\bin\AccesoDatos.dll
+C:\Proyecto\SIS911\wsSIS911\bin\Brevetacion.dll
+C:\Proyecto\SIS911\wsSIS911\bin\Constantes.dll
+C:\Proyecto\SIS911\wsSIS911\bin\Matriculacion.dll
+C:\Proyecto\SIS911\wsSIS911\bin\AccesoDatos.pdb
+C:\Proyecto\SIS911\wsSIS911\bin\Brevetacion.pdb
+C:\Proyecto\SIS911\wsSIS911\bin\Constantes.pdb
+C:\Proyecto\SIS911\wsSIS911\bin\Matriculacion.pdb
+C:\Proyecto\SIS911\wsSIS911\obj\Debug\wsSIS911.dll
+C:\Proyecto\SIS911\wsSIS911\obj\Debug\wsSIS911.pdb
+C:\Proyecto\SIS911\wsSIS911\bin\SeguridadWebAppInt.dll
+C:\Proyecto\SIS911\wsSIS911\bin\CifradoCs.dll
+C:\Proyecto\SIS911\wsSIS911\bin\SeguridadWebAppInt.pdb
+C:\Proyecto\SIS911\wsSIS911\bin\CifradoCs.pdb

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TiposIdentificacionVehiculo>
+  <tipo codigo="PLACA" descripcion="Placa" />
+  <tipo codigo="RAMV" descripcion="RAMV" />
+  <tipo codigo="CEDRUCPAS" descripcion="Cédula/RUC/Pasaporte del propietario" />
+</TiposIdentificacionVehiculo>

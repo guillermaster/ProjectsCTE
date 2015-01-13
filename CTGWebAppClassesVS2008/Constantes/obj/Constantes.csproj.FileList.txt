@@ -1,0 +1,14 @@
+bin\Debug\Constantes.dll
+bin\Debug\Constantes.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Constantes.dll
+obj\Debug\Constantes.pdb
+bin\Release\Constantes.dll
+bin\Release\Constantes.pdb
+bin\Release\AccesoDatos.dll
+bin\Release\AccesoDatos.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Constantes.dll
+obj\Release\Constantes.pdb
+bin\Debug\AccesoDatos.dll
+bin\Debug\AccesoDatos.pdb

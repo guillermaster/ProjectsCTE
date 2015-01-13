@@ -1,0 +1,5 @@
+C:\Proyecto\CTGWebAppClassesVS2008\AccesoDatos\bin\Release\AccesoDatos.dll
+C:\Proyecto\CTGWebAppClassesVS2008\AccesoDatos\bin\Release\AccesoDatos.pdb
+C:\Proyecto\CTGWebAppClassesVS2008\AccesoDatos\obj\Release\ResolveAssemblyReference.cache
+C:\Proyecto\CTGWebAppClassesVS2008\AccesoDatos\obj\Release\AccesoDatos.dll
+C:\Proyecto\CTGWebAppClassesVS2008\AccesoDatos\obj\Release\AccesoDatos.pdb

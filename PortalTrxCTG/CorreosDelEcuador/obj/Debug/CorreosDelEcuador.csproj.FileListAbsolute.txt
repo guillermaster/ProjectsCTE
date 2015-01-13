@@ -1,0 +1,9 @@
+C:\Proyecto\PortalTrxCTG\CorreosDelEcuador\bin\Debug\CorreosDelEcuador.dll
+C:\Proyecto\PortalTrxCTG\CorreosDelEcuador\bin\Debug\CorreosDelEcuador.pdb
+C:\Proyecto\PortalTrxCTG\CorreosDelEcuador\bin\Debug\AccesoDatos.dll
+C:\Proyecto\PortalTrxCTG\CorreosDelEcuador\bin\Debug\Constantes.dll
+C:\Proyecto\PortalTrxCTG\CorreosDelEcuador\bin\Debug\AccesoDatos.pdb
+C:\Proyecto\PortalTrxCTG\CorreosDelEcuador\bin\Debug\Constantes.pdb
+C:\Proyecto\PortalTrxCTG\CorreosDelEcuador\obj\Debug\ResolveAssemblyReference.cache
+C:\Proyecto\PortalTrxCTG\CorreosDelEcuador\obj\Debug\CorreosDelEcuador.dll
+C:\Proyecto\PortalTrxCTG\CorreosDelEcuador\obj\Debug\CorreosDelEcuador.pdb

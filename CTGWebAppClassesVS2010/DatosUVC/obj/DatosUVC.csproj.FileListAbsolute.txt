@@ -1,0 +1,7 @@
+C:\Proyecto\ReporteUVC\DatosUVC\obj\Debug\ResolveAssemblyReference.cache
+C:\Proyecto\ReporteUVC\DatosUVC\bin\Debug\DatosUVC.dll
+C:\Proyecto\ReporteUVC\DatosUVC\bin\Debug\DatosUVC.pdb
+C:\Proyecto\ReporteUVC\DatosUVC\bin\Debug\AccesoDatos.dll
+C:\Proyecto\ReporteUVC\DatosUVC\bin\Debug\AccesoDatos.pdb
+C:\Proyecto\ReporteUVC\DatosUVC\obj\Debug\DatosUVC.dll
+C:\Proyecto\ReporteUVC\DatosUVC\obj\Debug\DatosUVC.pdb

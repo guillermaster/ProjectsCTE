@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OptionDropDownList", "OptionDropDownList.csproj", "{835C9518-C7FD-4AD0-9868-36162D19668C}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestWebApplication", "..\TestWebApplication\TestWebApplication.csproj", "{5E16552E-71DD-4A85-A143-43F24F2676E4}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{835C9518-C7FD-4AD0-9868-36162D19668C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{835C9518-C7FD-4AD0-9868-36162D19668C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{835C9518-C7FD-4AD0-9868-36162D19668C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{835C9518-C7FD-4AD0-9868-36162D19668C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E16552E-71DD-4A85-A143-43F24F2676E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E16552E-71DD-4A85-A143-43F24F2676E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E16552E-71DD-4A85-A143-43F24F2676E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E16552E-71DD-4A85-A143-43F24F2676E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

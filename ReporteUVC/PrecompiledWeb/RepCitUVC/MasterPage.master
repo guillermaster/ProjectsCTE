@@ -1,0 +1,99 @@
+<%@ master language="C#" autoeventwireup="true" inherits="MasterPage, App_Web_masterpage.master.cdcab7d2" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <title>Untitled Page</title>
+    <style type="text/css">
+
+body {
+  background: #fff;
+  color: #333;
+  font-family: "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+  font-size: 0.9em;
+  padding: 40px;
+}
+
+.wideBox {
+  clear: both;
+  text-align: center;
+  margin-bottom: 50px;
+  padding: 10px;
+  background: #ebedf2;
+  border: 1px solid #333;
+  line-height: 80%;
+}
+
+#container {
+  width: 900px;
+  margin: 0 auto;
+}
+
+#chart, .chartData {
+  border: 1px solid #333;
+  background: #ebedf2 url("images/gradient.png") repeat-x 0 0;
+}
+
+#chart {
+  display: block;
+  margin: 0 0 50px 0;
+  float: left;
+  cursor: pointer;
+}
+
+.chartData {
+  width: 200px;
+  margin: 0 40px 0 0;
+  float: right;
+  border-collapse: collapse;
+  box-shadow: 0 0 1em rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 0 1em rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 0 0 1em rgba(0, 0, 0, 0.5);
+  background-position: 0 -100px;
+}
+
+.chartData th, .chartData td {
+  padding: 0.5em;
+  border: 1px dotted #666;
+  text-align: left;
+}
+
+.chartData th {
+  border-bottom: 2px solid #333;
+  text-transform: uppercase;
+}
+
+.chartData td {
+  cursor: pointer;
+  font-size: 9px;
+}
+
+.chartData td.highlight {
+  background: #e8e8e8;
+}
+
+.chartData tr:hover td {
+  background: #f0f0f0;
+}
+
+</style>
+<!--[if IE]><script type="text/javascript" src="js/excanvas.js"></script><![endif]-->
+<script type="text/javascript" src="js/jquery.min.js"></script>
+
+<asp:contentplaceholder id="ContentPlaceHolderHeader" runat="server">
+        </asp:contentplaceholder>
+
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div id="container">
+        <div class="wideBox">
+            <h1>Reporte de Citaciones en UVC</h1>
+        </div>
+        <asp:contentplaceholder id="ContentPlaceHolderBody" runat="server">
+        </asp:contentplaceholder>
+    </div>
+    </form>
+</body>
+</html>

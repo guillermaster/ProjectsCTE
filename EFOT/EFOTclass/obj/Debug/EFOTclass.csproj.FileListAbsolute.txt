@@ -1,0 +1,9 @@
+C:\Proyecto\EFOT\EFOTclass\obj\Debug\ResolveAssemblyReference.cache
+C:\Proyecto\EFOT\EFOTclass\bin\Debug\EFOTclass.dll
+C:\Proyecto\EFOT\EFOTclass\bin\Debug\EFOTclass.pdb
+C:\Proyecto\EFOT\EFOTclass\bin\Debug\AccesoDatos.dll
+C:\Proyecto\EFOT\EFOTclass\bin\Debug\AccesoDatos.pdb
+C:\Proyecto\EFOT\EFOTclass\obj\Debug\EFOTclass.dll
+C:\Proyecto\EFOT\EFOTclass\obj\Debug\EFOTclass.pdb
+C:\Proyecto\EFOT\EFOTclass\bin\Debug\Constantes.dll
+C:\Proyecto\EFOT\EFOTclass\bin\Debug\Constantes.pdb

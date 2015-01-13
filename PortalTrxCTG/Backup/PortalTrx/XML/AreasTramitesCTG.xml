@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<AreasTramitesCTG>
+  <Area>
+    <Codigo>ATU</Codigo>
+    <Titulo>Atención al usuario</Titulo>
+    <Descripcion></Descripcion>
+  </Area>
+  <Area>
+    <Codigo>BRP</Codigo>
+    <Titulo>Brevetación</Titulo>
+    <Descripcion></Descripcion>
+  </Area>
+  <Area>
+    <Codigo>JPG</Codigo>
+    <Titulo>Citaciones y partes</Titulo>
+    <Descripcion></Descripcion>
+  </Area>
+  <Area>
+    <Codigo>MAT</Codigo>
+    <Titulo>Matriculación</Titulo>
+    <Descripcion></Descripcion>
+  </Area>
+</AreasTramitesCTG>

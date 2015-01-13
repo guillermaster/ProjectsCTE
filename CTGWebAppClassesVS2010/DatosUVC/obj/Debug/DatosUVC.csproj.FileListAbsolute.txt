@@ -1,0 +1,7 @@
+C:\Proyecto\CTGWebAppClassesVS2010\DatosUVC\bin\Debug\DatosUVC.dll
+C:\Proyecto\CTGWebAppClassesVS2010\DatosUVC\bin\Debug\DatosUVC.pdb
+C:\Proyecto\CTGWebAppClassesVS2010\DatosUVC\bin\Debug\AccesoDatos.dll
+C:\Proyecto\CTGWebAppClassesVS2010\DatosUVC\bin\Debug\AccesoDatos.pdb
+C:\Proyecto\CTGWebAppClassesVS2010\DatosUVC\obj\Debug\ResolveAssemblyReference.cache
+C:\Proyecto\CTGWebAppClassesVS2010\DatosUVC\obj\Debug\DatosUVC.dll
+C:\Proyecto\CTGWebAppClassesVS2010\DatosUVC\obj\Debug\DatosUVC.pdb

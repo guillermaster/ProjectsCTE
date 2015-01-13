@@ -1,0 +1,9 @@
+C:\Proyecto\CTGWebAppClassesVS2008\Brevetacion\bin\Debug\Brevetacion.dll
+C:\Proyecto\CTGWebAppClassesVS2008\Brevetacion\bin\Debug\Brevetacion.pdb
+C:\Proyecto\CTGWebAppClassesVS2008\Brevetacion\bin\Debug\AccesoDatos.dll
+C:\Proyecto\CTGWebAppClassesVS2008\Brevetacion\bin\Debug\Constantes.dll
+C:\Proyecto\CTGWebAppClassesVS2008\Brevetacion\bin\Debug\AccesoDatos.pdb
+C:\Proyecto\CTGWebAppClassesVS2008\Brevetacion\bin\Debug\Constantes.pdb
+C:\Proyecto\CTGWebAppClassesVS2008\Brevetacion\obj\Debug\ResolveAssemblyReference.cache
+C:\Proyecto\CTGWebAppClassesVS2008\Brevetacion\obj\Debug\Brevetacion.dll
+C:\Proyecto\CTGWebAppClassesVS2008\Brevetacion\obj\Debug\Brevetacion.pdb

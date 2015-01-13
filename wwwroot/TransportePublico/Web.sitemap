@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="Default.aspx" title="Inicio"  description="Página de inicio" roles="" />
+  <siteMapNode url="" title="Cooperativa"  description="" roles="RCOOP" >
+    <siteMapNode url="Citaciones.aspx?type=C&amp;paid=S" title="Citaciones pagadas"  description="" roles="RCOOP" />
+    <siteMapNode url="Citaciones.aspx?type=C&amp;paid=N" title="Citaciones pendientes de pago"  description="" roles="RCOOP" />
+  </siteMapNode>
+  <siteMapNode url="" title="Gremio"  description="" roles="RGREM" >
+    <siteMapNode url="Citaciones.aspx?type=G&amp;paid=S" title="Citaciones pagadas"  description="" roles="RGREM" />
+    <siteMapNode url="Citaciones.aspx?type=G&amp;paid=N" title="Citaciones pendientes de pago"  description="" roles="RGREM" />
+  </siteMapNode>
+</siteMap>

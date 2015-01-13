@@ -1,0 +1,7 @@
+C:\Proyecto\Intranet\OpenSide\obj\Debug\ResolveAssemblyReference.cache
+C:\Proyecto\Intranet\OpenSide\bin\Debug\OpenSide.dll
+C:\Proyecto\Intranet\OpenSide\bin\Debug\OpenSide.pdb
+C:\Proyecto\Intranet\OpenSide\bin\Debug\AccesoDatos.dll
+C:\Proyecto\Intranet\OpenSide\bin\Debug\AccesoDatos.pdb
+C:\Proyecto\Intranet\OpenSide\obj\Debug\OpenSide.dll
+C:\Proyecto\Intranet\OpenSide\obj\Debug\OpenSide.pdb

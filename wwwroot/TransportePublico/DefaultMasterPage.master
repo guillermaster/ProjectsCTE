@@ -1,0 +1,65 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="DefaultMasterPage.master.cs" Inherits="MasterPage" %>
+<%@ Register src="userControls/Logout.ascx" tagname="Logout" tagprefix="uc1" %>
+<%@ Register src="userControls/UserLoggedIn.ascx" tagname="UserLoggedIn" tagprefix="uc2" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title>Comisión de Tránsito del Ecuador</title>
+    <link rel="stylesheet" type="text/css" media="screen,projection,print" href="css/layout4_setup.css" />
+    <link rel="stylesheet" type="text/css" media="screen,projection,print" href="css/layout4_text.css" />
+    <link href="css/MyStyleSheet.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <asp:XmlDataSource ID="XmlDataSource1" runat="server" DataFile="~/menuContent.xml"></asp:XmlDataSource>
+            <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; height: 100%">
+                <tr>
+                    <td colspan="2" style="height: 79px; background-color: #546d93" align="left" valign="top">
+                        <table width="100%">
+                          <tr>
+                            <td>
+                            <table width="99%">
+                             <tr>
+                              <td width="70%"><asp:Image ID="imgCTG" ImageUrl="~/img/CTG.gif" runat="server" /></td>
+                              <td width="30%" align="right" valign="middle">
+                                  <uc2:UserLoggedIn ID="UserLoggedIn1" runat="server" />
+                                  &nbsp;<br /> 
+                                <br />
+                                  <uc1:Logout ID="Logout1" runat="server" />
+                              </td>
+                             </tr>
+                            </table>
+                           </td>
+                          </tr>
+                          <tr>
+                            <td>
+                                &nbsp;</td>
+                            <td></td>
+                          </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                </tr>
+                <tr>
+                    <td bgcolor="AliceBlue" style="padding: 8px 0px 1px 10px" valign="middle"><asp:Label ID="lblTitle" runat="server" CssClass="h1" /></td>
+                </tr>
+                <tr>
+                    <td valign="top">
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server" >
+                                </asp:ContentPlaceHolder>
+                    </td>
+                </tr>
+                <!--<tr>
+                    <td colspan="2" style="height: 10px; background-color: #546d93; color:#ffffff" align="center">
+                        Copyright &copy; 2009 Comisión de Tránsito de la Provincia del Guayas.
+                    </td>
+                </tr>-->
+            </table>
+            &nbsp;
+        </div>
+    </form>
+</body>
+</html>

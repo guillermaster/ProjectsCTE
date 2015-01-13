@@ -1,0 +1,7 @@
+C:\Proyecto\Intranet\EvalSENRES\obj\Debug\ResolveAssemblyReference.cache
+C:\Proyecto\Intranet\EvalSENRES\bin\Debug\EvalSENRES.dll
+C:\Proyecto\Intranet\EvalSENRES\bin\Debug\EvalSENRES.pdb
+C:\Proyecto\Intranet\EvalSENRES\bin\Debug\AccesoDatos.dll
+C:\Proyecto\Intranet\EvalSENRES\bin\Debug\AccesoDatos.pdb
+C:\Proyecto\Intranet\EvalSENRES\obj\Debug\EvalSENRES.dll
+C:\Proyecto\Intranet\EvalSENRES\obj\Debug\EvalSENRES.pdb

@@ -1,0 +1,10 @@
+D:\CTGWebAppClasses\CifradoCs\bin\Debug\CifradoCs.dll
+D:\CTGWebAppClasses\CifradoCs\bin\Debug\CifradoCs.pdb
+D:\CTGWebAppClasses\CifradoCs\obj\Debug\ResolveAssemblyReference.cache
+D:\CTGWebAppClasses\CifradoCs\obj\Debug\CifradoCs.dll
+D:\CTGWebAppClasses\CifradoCs\obj\Debug\CifradoCs.pdb
+D:\CTGWebAppClasses\CifradoCs\bin\Release\CifradoCs.dll
+D:\CTGWebAppClasses\CifradoCs\bin\Release\CifradoCs.pdb
+D:\CTGWebAppClasses\CifradoCs\obj\Release\ResolveAssemblyReference.cache
+D:\CTGWebAppClasses\CifradoCs\obj\Release\CifradoCs.dll
+D:\CTGWebAppClasses\CifradoCs\obj\Release\CifradoCs.pdb

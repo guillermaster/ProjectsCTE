@@ -1,0 +1,11 @@
+C:\Proyecto\CTGWebAppClassesVS2010\ComprobanteElectronicoPago\bin\Debug\ComprobanteElectronicoPago.dll
+C:\Proyecto\CTGWebAppClassesVS2010\ComprobanteElectronicoPago\bin\Debug\ComprobanteElectronicoPago.pdb
+C:\Proyecto\CTGWebAppClassesVS2010\ComprobanteElectronicoPago\bin\Debug\AccesoDatos.dll
+C:\Proyecto\CTGWebAppClassesVS2010\ComprobanteElectronicoPago\bin\Debug\Constantes.dll
+C:\Proyecto\CTGWebAppClassesVS2010\ComprobanteElectronicoPago\bin\Debug\Utilities.dll
+C:\Proyecto\CTGWebAppClassesVS2010\ComprobanteElectronicoPago\bin\Debug\Constantes.pdb
+C:\Proyecto\CTGWebAppClassesVS2010\ComprobanteElectronicoPago\bin\Debug\Utilities.pdb
+C:\Proyecto\CTGWebAppClassesVS2010\ComprobanteElectronicoPago\bin\Debug\AccesoDatos.pdb
+C:\Proyecto\CTGWebAppClassesVS2010\ComprobanteElectronicoPago\obj\Debug\ResolveAssemblyReference.cache
+C:\Proyecto\CTGWebAppClassesVS2010\ComprobanteElectronicoPago\obj\Debug\ComprobanteElectronicoPago.dll
+C:\Proyecto\CTGWebAppClassesVS2010\ComprobanteElectronicoPago\obj\Debug\ComprobanteElectronicoPago.pdb

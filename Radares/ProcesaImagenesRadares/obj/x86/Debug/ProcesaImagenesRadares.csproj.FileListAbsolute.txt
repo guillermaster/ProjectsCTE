@@ -1,0 +1,5 @@
+C:\Proyecto\Radares\ProcesaImagenesRadares\bin\Debug\ProcesaImagenesRadares.exe
+C:\Proyecto\Radares\ProcesaImagenesRadares\bin\Debug\ProcesaImagenesRadares.pdb
+C:\Proyecto\Radares\ProcesaImagenesRadares\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Proyecto\Radares\ProcesaImagenesRadares\obj\x86\Debug\ProcesaImagenesRadares.exe
+C:\Proyecto\Radares\ProcesaImagenesRadares\obj\x86\Debug\ProcesaImagenesRadares.pdb

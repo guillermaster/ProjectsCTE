@@ -1,0 +1,48 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="BE676E36-B416-4795-BAC2-6B153480E5AA/f:Web.Config" caret="2286" fromTop="17" />
+      <File id="CC266826-263F-4D36-BFEF-75BE67AD7FF5/d:Consultas/d:Citaciones/f:InfraccionesPendientes.aspx.cs" caret="1533" fromTop="0" />
+      <File id="CC266826-263F-4D36-BFEF-75BE67AD7FF5/d:Consultas/d:Citaciones/f:InfraccionesPendientes.aspx" caret="0" fromTop="0" />
+      <File id="BE676E36-B416-4795-BAC2-6B153480E5AA/f:Default.aspx" caret="1279" fromTop="12" />
+      <File id="543898B2-2C62-4916-B7BC-063A79FCECB0/f:UsuarioVerificador.cs" caret="3119" fromTop="4" />
+      <File id="BE676E36-B416-4795-BAC2-6B153480E5AA/f:Logon.aspx.cs" caret="917" fromTop="9" />
+      <File id="3C7DDD55-8911-4329-B135-32E4A3F8A008/f:Logon.aspx.cs" caret="916" fromTop="9" />
+      <File id="BE676E36-B416-4795-BAC2-6B153480E5AA/d:Citaciones/f:PuntosPorLicencia.aspx.cs" caret="1188" fromTop="12" />
+      <File id="BE676E36-B416-4795-BAC2-6B153480E5AA/d:Citaciones/f:InfraccionesPendientes.aspx" caret="0" fromTop="0" />
+      <File id="BE676E36-B416-4795-BAC2-6B153480E5AA/d:Citaciones/f:PuntosPorLicencia.aspx" caret="0" fromTop="0" />
+      <File id="CC266826-263F-4D36-BFEF-75BE67AD7FF5/d:Consultas/d:Licencias/f:index.aspx.cs" caret="1444" fromTop="0" />
+      <File id="BC38F8BC-F695-4EAC-B411-6922AEF9A998/f:StoredProcedures.cs" caret="2628" fromTop="5" />
+      <File id="1404D347-29DD-417F-9C91-E40681C3D7FB/f:Licencia.cs" caret="1349" fromTop="5" />
+      <File id="CC266826-263F-4D36-BFEF-75BE67AD7FF5/d:Consultas/d:Citaciones/f:PuntosPorLicencia.aspx.cs" caret="1279" fromTop="14" />
+      <File id="721ECC83-A7F8-4837-85A9-19CD3C6B4F88/f:Infracciones.cs" caret="2270" fromTop="5" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="BE676E36-B416-4795-BAC2-6B153480E5AA/f:Web.Config" caret="2247" fromTop="17" />
+      <File id="BE676E36-B416-4795-BAC2-6B153480E5AA/d:Citaciones/f:PuntosPorLicencia.aspx" caret="160" fromTop="2" />
+      <File id="BE676E36-B416-4795-BAC2-6B153480E5AA/d:Citaciones/f:PuntosPorLicencia.aspx" caret="578" fromTop="9" />
+      <File id="BE676E36-B416-4795-BAC2-6B153480E5AA/d:Citaciones/f:PuntosPorLicencia.aspx" caret="931" fromTop="9" />
+      <File id="BE676E36-B416-4795-BAC2-6B153480E5AA/d:Citaciones/f:PuntosPorLicencia.aspx.cs" caret="0" fromTop="0" />
+      <File id="BE676E36-B416-4795-BAC2-6B153480E5AA/d:Citaciones/f:PuntosPorLicencia.aspx.cs" caret="1918" fromTop="18" />
+      <File id="BE676E36-B416-4795-BAC2-6B153480E5AA/f:Default.aspx" caret="1056" fromTop="18" />
+      <File id="BE676E36-B416-4795-BAC2-6B153480E5AA/d:Citaciones/f:PuntosPorLicencia.aspx" caret="3321" fromTop="17" />
+      <File id="BE676E36-B416-4795-BAC2-6B153480E5AA/d:Citaciones/f:PuntosPorLicencia.aspx" caret="1789" fromTop="19" />
+      <File id="BE676E36-B416-4795-BAC2-6B153480E5AA/d:Citaciones/f:PuntosPorLicencia.aspx.cs" caret="1794" fromTop="25" />
+      <File id="BE676E36-B416-4795-BAC2-6B153480E5AA/d:Citaciones/f:PuntosPorLicencia.aspx.cs" caret="819" fromTop="3" />
+      <File id="BE676E36-B416-4795-BAC2-6B153480E5AA/d:Citaciones/f:PuntosPorLicencia.aspx" caret="2184" fromTop="21" />
+      <File id="543898B2-2C62-4916-B7BC-063A79FCECB0/f:UsuarioVerificador.cs" caret="1569" fromTop="15" />
+      <File id="543898B2-2C62-4916-B7BC-063A79FCECB0/f:UsuarioVerificador.cs" caret="4077" fromTop="25" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

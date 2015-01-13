@@ -1,0 +1,5 @@
+bin\Debug\base64Encode.exe
+bin\Debug\base64Encode.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\base64Encode.exe
+obj\Debug\base64Encode.pdb

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ECU911">
+</Property><Property Name="Solution File" Value="C:\Proyecto\ECU911\ECU911.sln">
+</Property><Property Name="Date" Value="Miércoles, 25 de Enero de 2012">
+</Property><Property Name="Time" Value="14:57:27">
+</Property></Properties><Event ErrorLevel="0" Project="SecretariaGeneral" Source="..\CTGWebAppClassesVS2010\SecretariaGeneral\SecretariaGeneral.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SecretariaGeneral" Source="..\CTGWebAppClassesVS2010\SecretariaGeneral\SecretariaGeneral.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SecretariaGeneral" Source="..\CTGWebAppClassesVS2010\SecretariaGeneral\SecretariaGeneral.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

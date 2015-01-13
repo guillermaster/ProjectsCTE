@@ -1,0 +1,19 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="5EF76539-5E1F-4B6C-BBA2-BECC360DE651/f:ActivosFijos.cs" caret="1260" fromTop="18" />
+    </RecentFiles>
+    <RecentEdits />
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

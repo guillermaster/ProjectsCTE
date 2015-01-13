@@ -1,0 +1,7 @@
+C:\Proyecto\TerminalDuran\TTDuran\obj\Debug\ResolveAssemblyReference.cache
+C:\Proyecto\TerminalDuran\TTDuran\bin\Debug\TTDuran.dll
+C:\Proyecto\TerminalDuran\TTDuran\bin\Debug\TTDuran.pdb
+C:\Proyecto\TerminalDuran\TTDuran\obj\Debug\TTDuran.dll
+C:\Proyecto\TerminalDuran\TTDuran\obj\Debug\TTDuran.pdb
+C:\Proyecto\TerminalDuran\TTDuran\bin\Debug\AccesoDatos.dll
+C:\Proyecto\TerminalDuran\TTDuran\bin\Debug\AccesoDatos.pdb

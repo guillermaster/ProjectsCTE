@@ -1,0 +1,8 @@
+bin\Debug\CaptchaImage.dll
+bin\Debug\CaptchaImage.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CaptchaImage.dll
+obj\Debug\CaptchaImage.pdb
+bin\Release\CaptchaImage.dll
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\CaptchaImage.dll

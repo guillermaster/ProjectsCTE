@@ -1,0 +1,93 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccesoDatos", "..\CTGWebAppClassesVS2010\AccesoDatos\AccesoDatos.csproj", "{F2FE322C-CE24-4A37-941F-2551E77170B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brevetacion", "..\CTGWebAppClassesVS2010\Brevetacion\Brevetacion.csproj", "{1404D347-29DD-417F-9C91-E40681C3D7FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Citaciones", "..\CTGWebAppClassesVS2010\Citaciones\Citaciones.csproj", "{721ECC83-A7F8-4837-85A9-19CD3C6B4F88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matriculacion", "..\CTGWebAppClassesVS2010\Matriculacion\Matriculacion.csproj", "{0D95FD9F-DBA8-4133-B45E-D94196D33DAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeguridadWebAppInt", "..\CTGWebAppClassesVS2010\SeguridadWebAppInt\SeguridadWebAppInt.csproj", "{77F2432E-7D83-42F7-B076-20F9E76CC52C}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ECU911", "http://localhost/ECU911", "{38D03B43-AF6E-4B2D-9964-8F62A60838AD}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		ProjectReferences = "{F2FE322C-CE24-4A37-941F-2551E77170B2}|AccesoDatos.dll;{1404D347-29DD-417F-9C91-E40681C3D7FB}|Brevetacion.dll;{5F3E85F4-85EC-4EE1-9A70-AC9DFCF6C281}|CifradoCs.dll;{721ECC83-A7F8-4837-85A9-19CD3C6B4F88}|Citaciones.dll;{0D95FD9F-DBA8-4133-B45E-D94196D33DAC}|Matriculacion.dll;{77F2432E-7D83-42F7-B076-20F9E76CC52C}|SeguridadWebAppInt.dll;{BC38F8BC-F695-4EAC-B411-6922AEF9A998}|Constantes.dll;{D31D319B-E918-4E36-8A89-CB7360506783}|Utilities.dll;{0ED5BE63-43F1-45A7-87F4-A3D858BBBA77}|SecretariaGeneral.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/ECU911"
+		Debug.AspNetCompiler.PhysicalPath = "WebApp\ECU911\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\ECU911\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/ECU911"
+		Release.AspNetCompiler.PhysicalPath = "WebApp\ECU911\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\ECU911\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "WebApp\ECU911\"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CifradoCs", "..\CTGWebAppClassesVS2010\CifradoCs\CifradoCs.csproj", "{5F3E85F4-85EC-4EE1-9A70-AC9DFCF6C281}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constantes", "..\CTGWebAppClassesVS2010\Constantes\Constantes.csproj", "{BC38F8BC-F695-4EAC-B411-6922AEF9A998}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utilities", "..\CTGWebAppClassesVS2010\Utilities\Utilities.csproj", "{D31D319B-E918-4E36-8A89-CB7360506783}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecretariaGeneral", "..\CTGWebAppClassesVS2010\SecretariaGeneral\SecretariaGeneral.csproj", "{0ED5BE63-43F1-45A7-87F4-A3D858BBBA77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2FE322C-CE24-4A37-941F-2551E77170B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2FE322C-CE24-4A37-941F-2551E77170B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2FE322C-CE24-4A37-941F-2551E77170B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2FE322C-CE24-4A37-941F-2551E77170B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1404D347-29DD-417F-9C91-E40681C3D7FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1404D347-29DD-417F-9C91-E40681C3D7FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1404D347-29DD-417F-9C91-E40681C3D7FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1404D347-29DD-417F-9C91-E40681C3D7FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{721ECC83-A7F8-4837-85A9-19CD3C6B4F88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{721ECC83-A7F8-4837-85A9-19CD3C6B4F88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{721ECC83-A7F8-4837-85A9-19CD3C6B4F88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{721ECC83-A7F8-4837-85A9-19CD3C6B4F88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D95FD9F-DBA8-4133-B45E-D94196D33DAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D95FD9F-DBA8-4133-B45E-D94196D33DAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D95FD9F-DBA8-4133-B45E-D94196D33DAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D95FD9F-DBA8-4133-B45E-D94196D33DAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77F2432E-7D83-42F7-B076-20F9E76CC52C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77F2432E-7D83-42F7-B076-20F9E76CC52C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77F2432E-7D83-42F7-B076-20F9E76CC52C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77F2432E-7D83-42F7-B076-20F9E76CC52C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38D03B43-AF6E-4B2D-9964-8F62A60838AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38D03B43-AF6E-4B2D-9964-8F62A60838AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38D03B43-AF6E-4B2D-9964-8F62A60838AD}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{38D03B43-AF6E-4B2D-9964-8F62A60838AD}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{5F3E85F4-85EC-4EE1-9A70-AC9DFCF6C281}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F3E85F4-85EC-4EE1-9A70-AC9DFCF6C281}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F3E85F4-85EC-4EE1-9A70-AC9DFCF6C281}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F3E85F4-85EC-4EE1-9A70-AC9DFCF6C281}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC38F8BC-F695-4EAC-B411-6922AEF9A998}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC38F8BC-F695-4EAC-B411-6922AEF9A998}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC38F8BC-F695-4EAC-B411-6922AEF9A998}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC38F8BC-F695-4EAC-B411-6922AEF9A998}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D31D319B-E918-4E36-8A89-CB7360506783}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D31D319B-E918-4E36-8A89-CB7360506783}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D31D319B-E918-4E36-8A89-CB7360506783}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D31D319B-E918-4E36-8A89-CB7360506783}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ED5BE63-43F1-45A7-87F4-A3D858BBBA77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ED5BE63-43F1-45A7-87F4-A3D858BBBA77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ED5BE63-43F1-45A7-87F4-A3D858BBBA77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ED5BE63-43F1-45A7-87F4-A3D858BBBA77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

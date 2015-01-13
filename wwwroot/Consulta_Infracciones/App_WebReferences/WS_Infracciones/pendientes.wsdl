@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="Inf_x_Placa">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="SPlaca" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Inf_x_PlacaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Inf_x_PlacaResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Inf_x_Identificacion">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="SIdentificacion" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Inf_x_IdentificacionResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Inf_x_IdentificacionResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Existe_Infraccion">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="STipo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="SDato" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Existe_InfraccionResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Existe_InfraccionResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="Inf_x_PlacaSoapIn">
+    <wsdl:part name="parameters" element="tns:Inf_x_Placa" />
+  </wsdl:message>
+  <wsdl:message name="Inf_x_PlacaSoapOut">
+    <wsdl:part name="parameters" element="tns:Inf_x_PlacaResponse" />
+  </wsdl:message>
+  <wsdl:message name="Inf_x_IdentificacionSoapIn">
+    <wsdl:part name="parameters" element="tns:Inf_x_Identificacion" />
+  </wsdl:message>
+  <wsdl:message name="Inf_x_IdentificacionSoapOut">
+    <wsdl:part name="parameters" element="tns:Inf_x_IdentificacionResponse" />
+  </wsdl:message>
+  <wsdl:message name="Existe_InfraccionSoapIn">
+    <wsdl:part name="parameters" element="tns:Existe_Infraccion" />
+  </wsdl:message>
+  <wsdl:message name="Existe_InfraccionSoapOut">
+    <wsdl:part name="parameters" element="tns:Existe_InfraccionResponse" />
+  </wsdl:message>
+  <wsdl:portType name="pendientesSoap">
+    <wsdl:operation name="Inf_x_Placa">
+      <wsdl:input message="tns:Inf_x_PlacaSoapIn" />
+      <wsdl:output message="tns:Inf_x_PlacaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Inf_x_Identificacion">
+      <wsdl:input message="tns:Inf_x_IdentificacionSoapIn" />
+      <wsdl:output message="tns:Inf_x_IdentificacionSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Existe_Infraccion">
+      <wsdl:input message="tns:Existe_InfraccionSoapIn" />
+      <wsdl:output message="tns:Existe_InfraccionSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="pendientesSoap" type="tns:pendientesSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="Inf_x_Placa">
+      <soap:operation soapAction="http://tempuri.org/Inf_x_Placa" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Inf_x_Identificacion">
+      <soap:operation soapAction="http://tempuri.org/Inf_x_Identificacion" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Existe_Infraccion">
+      <soap:operation soapAction="http://tempuri.org/Existe_Infraccion" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="pendientesSoap12" type="tns:pendientesSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="Inf_x_Placa">
+      <soap12:operation soapAction="http://tempuri.org/Inf_x_Placa" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Inf_x_Identificacion">
+      <soap12:operation soapAction="http://tempuri.org/Inf_x_Identificacion" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Existe_Infraccion">
+      <soap12:operation soapAction="http://tempuri.org/Existe_Infraccion" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="pendientes">
+    <wsdl:port name="pendientesSoap" binding="tns:pendientesSoap">
+      <soap:address location="http://localhost/srv_infracciones/pendientes.asmx" />
+    </wsdl:port>
+    <wsdl:port name="pendientesSoap12" binding="tns:pendientesSoap12">
+      <soap12:address location="http://localhost/srv_infracciones/pendientes.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Resultado>
+			<Criterio>P</Criterio>
+			<Valor>GGU150</Valor>
+			<aprobada>S/N</aprobada>
+			<bloqueo>
+				<tipo>G06</tipo>				
+			</bloqueo>
+			<Datos>
+				<Dato1>
+					<Codigo>1234</Codigo> <!--Permite Saber que codigo se envia para guardar luego en base-->
+					<check>S</check>
+					<VALOR>50</VALOR>
+				</Dato1>
+			
+				<Dato2>
+					<Codigo>1234</Codigo> <!--Permite Saber que codigo se envia para guardar luego en base-->
+					<check>S</check>
+					<VALOR>50</VALOR>
+				</Dato2>
+			</Datos>
+			</observacion></observacion>
+</Resultado>

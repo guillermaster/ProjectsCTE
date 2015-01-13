@@ -1,0 +1,14 @@
+D:\CTGWebAppClasses\Matriculacion\bin\Debug\Matriculacion.dll
+D:\CTGWebAppClasses\Matriculacion\bin\Debug\Matriculacion.pdb
+D:\CTGWebAppClasses\Matriculacion\bin\Debug\AccesoDatos.dll
+D:\CTGWebAppClasses\Matriculacion\bin\Debug\AccesoDatos.pdb
+D:\CTGWebAppClasses\Matriculacion\obj\Debug\ResolveAssemblyReference.cache
+D:\CTGWebAppClasses\Matriculacion\obj\Debug\Matriculacion.dll
+D:\CTGWebAppClasses\Matriculacion\obj\Debug\Matriculacion.pdb
+D:\CTGWebAppClasses\Matriculacion\bin\Release\Matriculacion.dll
+D:\CTGWebAppClasses\Matriculacion\bin\Release\Matriculacion.pdb
+D:\CTGWebAppClasses\Matriculacion\bin\Release\AccesoDatos.dll
+D:\CTGWebAppClasses\Matriculacion\bin\Release\AccesoDatos.pdb
+D:\CTGWebAppClasses\Matriculacion\obj\Release\ResolveAssemblyReference.cache
+D:\CTGWebAppClasses\Matriculacion\obj\Release\Matriculacion.dll
+D:\CTGWebAppClasses\Matriculacion\obj\Release\Matriculacion.pdb

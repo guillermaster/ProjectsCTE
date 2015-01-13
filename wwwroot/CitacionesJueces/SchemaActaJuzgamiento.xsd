@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="SchemaActaNotificacion" targetNamespace="http://tempuri.org/SchemaActaNotificacion.xsd" elementFormDefault="qualified" xmlns="http://tempuri.org/SchemaActaNotificacion.xsd" xmlns:mstns="http://tempuri.org/SchemaActaNotificacion.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="DatosReporte">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="CIUDAD" type="xs:string" />
+        <xs:element name="FECHA_ACTA_JUZGAMIENTO" type="xs:dateTime" />
+        <xs:element name="CITACION" type="xs:string" />
+        <xs:element name="NOM_UNIFORMADO" type="xs:string" />
+        <xs:element name="COD_UNIFORMADO" type="xs:int" />
+        <xs:element name="NOMBRE_INFRACTOR" type="xs:string" />
+        <xs:element name="IDEN_INFRACTOR" type="xs:string" />
+        <xs:element name="DIA" type="xs:string" />
+        <xs:element name="MES" type="xs:date" />
+        <xs:element name="ANIO" type="xs:string" />
+        <xs:element name="HORA" type="xs:string" />
+        <xs:element name="CALLES" type="xs:string" />
+        <xs:element name="DESCRIPCION" type="xs:string" />
+        <xs:element name="PLACA" type="xs:string" />
+        <xs:element name="OBSERVACION" type="xs:string" />
+        <xs:element name="ART" type="xs:string" />
+        <xs:element name="NOMBRE_JUEZ" type="xs:string" />
+        <xs:element name="JUZGADO" type="xs:string" />
+        <xs:element name="PORCENTAJE" type="xs:string" />
+        <xs:element name="PUNTOS" type="xs:string" />
+        <xs:element name="REINCIDENCIA" type="xs:string" />
+        <xs:element name="PORC_REINCIDENCIA" type="xs:string" />
+        <xs:element name="PUNTOS_REINCIDENCIA" type="xs:string" />
+        <xs:element name="NOMB_SECRETARIO" type="xs:string" />
+        <xs:element name="NUM_ACTA" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

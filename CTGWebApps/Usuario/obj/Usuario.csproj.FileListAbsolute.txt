@@ -1,0 +1,27 @@
+C:\Documents and Settings\Gpincay\Mis documentos\Visual Studio 2005\Projects\CTGWebApps\Usuario\bin\Debug\Usuario.dll
+C:\Documents and Settings\Gpincay\Mis documentos\Visual Studio 2005\Projects\CTGWebApps\Usuario\bin\Debug\Usuario.pdb
+C:\Documents and Settings\Gpincay\Mis documentos\Visual Studio 2005\Projects\CTGWebApps\Usuario\bin\Debug\AccesoDatos.dll
+C:\Documents and Settings\Gpincay\Mis documentos\Visual Studio 2005\Projects\CTGWebApps\Usuario\bin\Debug\Constantes.dll
+C:\Documents and Settings\Gpincay\Mis documentos\Visual Studio 2005\Projects\CTGWebApps\Usuario\bin\Debug\AccesoDatos.pdb
+C:\Documents and Settings\Gpincay\Mis documentos\Visual Studio 2005\Projects\CTGWebApps\Usuario\bin\Debug\Constantes.pdb
+C:\Documents and Settings\Gpincay\Mis documentos\Visual Studio 2005\Projects\CTGWebApps\Usuario\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Gpincay\Mis documentos\Visual Studio 2005\Projects\CTGWebApps\Usuario\obj\Debug\Usuario.dll
+C:\Documents and Settings\Gpincay\Mis documentos\Visual Studio 2005\Projects\CTGWebApps\Usuario\obj\Debug\Usuario.pdb
+F:\Proyecto\CTGWebApps\Usuario\bin\Debug\Usuario.dll
+F:\Proyecto\CTGWebApps\Usuario\bin\Debug\Usuario.pdb
+F:\Proyecto\CTGWebApps\Usuario\bin\Debug\AccesoDatos.dll
+F:\Proyecto\CTGWebApps\Usuario\bin\Debug\Constantes.dll
+F:\Proyecto\CTGWebApps\Usuario\bin\Debug\AccesoDatos.pdb
+F:\Proyecto\CTGWebApps\Usuario\bin\Debug\Constantes.pdb
+F:\Proyecto\CTGWebApps\Usuario\obj\Debug\ResolveAssemblyReference.cache
+F:\Proyecto\CTGWebApps\Usuario\obj\Debug\Usuario.dll
+F:\Proyecto\CTGWebApps\Usuario\obj\Debug\Usuario.pdb
+C:\Proyecto\CTGWebApps\Usuario\bin\Debug\Usuario.dll
+C:\Proyecto\CTGWebApps\Usuario\bin\Debug\Usuario.pdb
+C:\Proyecto\CTGWebApps\Usuario\bin\Debug\AccesoDatos.dll
+C:\Proyecto\CTGWebApps\Usuario\bin\Debug\Constantes.dll
+C:\Proyecto\CTGWebApps\Usuario\bin\Debug\AccesoDatos.pdb
+C:\Proyecto\CTGWebApps\Usuario\bin\Debug\Constantes.pdb
+C:\Proyecto\CTGWebApps\Usuario\obj\Debug\ResolveAssemblyReference.cache
+C:\Proyecto\CTGWebApps\Usuario\obj\Debug\Usuario.dll
+C:\Proyecto\CTGWebApps\Usuario\obj\Debug\Usuario.pdb

@@ -1,0 +1,5 @@
+D:\CTGWebAppClasses\Utilities\bin\Debug\Utilities.dll
+D:\CTGWebAppClasses\Utilities\bin\Debug\Utilities.pdb
+D:\CTGWebAppClasses\Utilities\obj\Debug\ResolveAssemblyReference.cache
+D:\CTGWebAppClasses\Utilities\obj\Debug\Utilities.dll
+D:\CTGWebAppClasses\Utilities\obj\Debug\Utilities.pdb

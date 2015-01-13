@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="8" virtualPath="/KioskoMat/global.asax" hash="ffffffffc8f65744" filehash="3cf5d36aee7f" flags="150000" assembly="App_global.asax" type="ASP.global_asax">
+    <filedeps>
+        <filedep name="/KioskoMat/global.asax" />
+    </filedeps>
+</preserve>

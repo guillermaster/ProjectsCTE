@@ -1,0 +1,1 @@
+﻿<%@ page language="C#" autoeventwireup="true" inherits="Consultas_querymapdata, App_Web_querymapdata.aspx.cdcab7d2" theme="SkinFile" %>

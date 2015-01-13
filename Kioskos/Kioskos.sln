@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccesoDatos", "..\CTGWebAppClassesVS2010\AccesoDatos\AccesoDatos.csproj", "{F2FE322C-CE24-4A37-941F-2551E77170B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Citaciones", "..\CTGWebAppClassesVS2010\Citaciones\Citaciones.csproj", "{721ECC83-A7F8-4837-85A9-19CD3C6B4F88}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "KioskoMat", "http://localhost/KioskoMat", "{BB4FE8D1-43A7-4322-92C3-491A69AF4F1C}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		ProjectReferences = "{F2FE322C-CE24-4A37-941F-2551E77170B2}|AccesoDatos.dll;{721ECC83-A7F8-4837-85A9-19CD3C6B4F88}|Citaciones.dll;{BC38F8BC-F695-4EAC-B411-6922AEF9A998}|Constantes.dll;{2773D7DB-A17F-479E-ACD6-0CE02E793F19}|ComprobanteElectronicoPago.dll;{D31D319B-E918-4E36-8A89-CB7360506783}|Utilities.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/KioskoMat"
+		Debug.AspNetCompiler.PhysicalPath = "WebApps\KioskoMat\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\KioskoMat\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/KioskoMat"
+		Release.AspNetCompiler.PhysicalPath = "WebApps\KioskoMat\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\KioskoMat\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "..\..\inetpub\wwwroot\KioskoMat\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constantes", "..\CTGWebAppClassesVS2010\Constantes\Constantes.csproj", "{BC38F8BC-F695-4EAC-B411-6922AEF9A998}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComprobanteElectronicoPago", "..\CTGWebAppClassesVS2010\ComprobanteElectronicoPago\ComprobanteElectronicoPago.csproj", "{2773D7DB-A17F-479E-ACD6-0CE02E793F19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utilities", "..\CTGWebAppClassesVS2010\Utilities\Utilities.csproj", "{D31D319B-E918-4E36-8A89-CB7360506783}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2FE322C-CE24-4A37-941F-2551E77170B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2FE322C-CE24-4A37-941F-2551E77170B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2FE322C-CE24-4A37-941F-2551E77170B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2FE322C-CE24-4A37-941F-2551E77170B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{721ECC83-A7F8-4837-85A9-19CD3C6B4F88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{721ECC83-A7F8-4837-85A9-19CD3C6B4F88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{721ECC83-A7F8-4837-85A9-19CD3C6B4F88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{721ECC83-A7F8-4837-85A9-19CD3C6B4F88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB4FE8D1-43A7-4322-92C3-491A69AF4F1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB4FE8D1-43A7-4322-92C3-491A69AF4F1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB4FE8D1-43A7-4322-92C3-491A69AF4F1C}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB4FE8D1-43A7-4322-92C3-491A69AF4F1C}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{BC38F8BC-F695-4EAC-B411-6922AEF9A998}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC38F8BC-F695-4EAC-B411-6922AEF9A998}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC38F8BC-F695-4EAC-B411-6922AEF9A998}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC38F8BC-F695-4EAC-B411-6922AEF9A998}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2773D7DB-A17F-479E-ACD6-0CE02E793F19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2773D7DB-A17F-479E-ACD6-0CE02E793F19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2773D7DB-A17F-479E-ACD6-0CE02E793F19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2773D7DB-A17F-479E-ACD6-0CE02E793F19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D31D319B-E918-4E36-8A89-CB7360506783}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D31D319B-E918-4E36-8A89-CB7360506783}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D31D319B-E918-4E36-8A89-CB7360506783}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D31D319B-E918-4E36-8A89-CB7360506783}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

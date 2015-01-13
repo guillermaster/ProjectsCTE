@@ -1,0 +1,14 @@
+bin\Release\Matriculacion.dll
+bin\Release\Matriculacion.pdb
+bin\Release\AccesoDatos.dll
+bin\Release\AccesoDatos.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Matriculacion.dll
+obj\Release\Matriculacion.pdb
+bin\Debug\Matriculacion.dll
+bin\Debug\Matriculacion.pdb
+bin\Debug\AccesoDatos.dll
+bin\Debug\AccesoDatos.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Matriculacion.dll
+obj\Debug\Matriculacion.pdb

@@ -1,0 +1,9 @@
+C:\Proyecto\CTGWebAppClassesVS2008\Citaciones\obj\Debug\ResolveAssemblyReference.cache
+C:\Proyecto\CTGWebAppClassesVS2008\Citaciones\obj\Debug\Citaciones.dll
+C:\Proyecto\CTGWebAppClassesVS2008\Citaciones\bin\Debug\Citaciones.dll
+C:\Proyecto\CTGWebAppClassesVS2008\Citaciones\bin\Debug\Citaciones.pdb
+C:\Proyecto\CTGWebAppClassesVS2008\Citaciones\bin\Debug\AccesoDatos.dll
+C:\Proyecto\CTGWebAppClassesVS2008\Citaciones\bin\Debug\Constantes.dll
+C:\Proyecto\CTGWebAppClassesVS2008\Citaciones\bin\Debug\AccesoDatos.pdb
+C:\Proyecto\CTGWebAppClassesVS2008\Citaciones\bin\Debug\Constantes.pdb
+C:\Proyecto\CTGWebAppClassesVS2008\Citaciones\obj\Debug\Citaciones.pdb

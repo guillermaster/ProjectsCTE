@@ -1,0 +1,11 @@
+C:\Proyecto\CTGWebAppClassesVS2008\Utilities\bin\Debug\Utilities.dll
+C:\Proyecto\CTGWebAppClassesVS2008\Utilities\bin\Debug\Utilities.pdb
+C:\Proyecto\CTGWebAppClassesVS2008\Utilities\obj\Debug\ResolveAssemblyReference.cache
+C:\Proyecto\CTGWebAppClassesVS2008\Utilities\obj\Debug\Utilities.dll
+C:\Proyecto\CTGWebAppClassesVS2008\Utilities\obj\Debug\Utilities.pdb
+C:\Proyecto\CTGWebAppClassesVS2008\Utilities\bin\Debug\CifradoCs.dll
+C:\Proyecto\CTGWebAppClassesVS2008\Utilities\bin\Debug\Constantes.dll
+C:\Proyecto\CTGWebAppClassesVS2008\Utilities\bin\Debug\AccesoDatos.dll
+C:\Proyecto\CTGWebAppClassesVS2008\Utilities\bin\Debug\CifradoCs.pdb
+C:\Proyecto\CTGWebAppClassesVS2008\Utilities\bin\Debug\AccesoDatos.pdb
+C:\Proyecto\CTGWebAppClassesVS2008\Utilities\bin\Debug\Constantes.pdb

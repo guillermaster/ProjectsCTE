@@ -1,0 +1,5 @@
+D:\CTGWebAppClasses\CaptchaImage\bin\Debug\CaptchaImage.dll
+D:\CTGWebAppClasses\CaptchaImage\bin\Debug\CaptchaImage.pdb
+D:\CTGWebAppClasses\CaptchaImage\obj\Debug\ResolveAssemblyReference.cache
+D:\CTGWebAppClasses\CaptchaImage\obj\Debug\CaptchaImage.dll
+D:\CTGWebAppClasses\CaptchaImage\obj\Debug\CaptchaImage.pdb

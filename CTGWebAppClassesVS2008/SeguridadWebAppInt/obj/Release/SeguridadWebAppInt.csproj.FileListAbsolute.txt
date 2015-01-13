@@ -1,0 +1,11 @@
+C:\Proyecto\CTGWebAppClassesVS2008\SeguridadWebAppInt\bin\Release\SeguridadWebAppInt.dll
+C:\Proyecto\CTGWebAppClassesVS2008\SeguridadWebAppInt\bin\Release\SeguridadWebAppInt.pdb
+C:\Proyecto\CTGWebAppClassesVS2008\SeguridadWebAppInt\bin\Release\AccesoDatos.dll
+C:\Proyecto\CTGWebAppClassesVS2008\SeguridadWebAppInt\bin\Release\CifradoCs.dll
+C:\Proyecto\CTGWebAppClassesVS2008\SeguridadWebAppInt\bin\Release\Constantes.dll
+C:\Proyecto\CTGWebAppClassesVS2008\SeguridadWebAppInt\bin\Release\CifradoCs.pdb
+C:\Proyecto\CTGWebAppClassesVS2008\SeguridadWebAppInt\bin\Release\AccesoDatos.pdb
+C:\Proyecto\CTGWebAppClassesVS2008\SeguridadWebAppInt\bin\Release\Constantes.pdb
+C:\Proyecto\CTGWebAppClassesVS2008\SeguridadWebAppInt\obj\Release\ResolveAssemblyReference.cache
+C:\Proyecto\CTGWebAppClassesVS2008\SeguridadWebAppInt\obj\Release\SeguridadWebAppInt.dll
+C:\Proyecto\CTGWebAppClassesVS2008\SeguridadWebAppInt\obj\Release\SeguridadWebAppInt.pdb

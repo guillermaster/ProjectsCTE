@@ -1,0 +1,92 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "SRI", "http://localhost/SRI", "{7EF76A84-E4D3-4E73-A173-6F8B55A07D14}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		ProjectReferences = "{0D95FD9F-DBA8-4133-B45E-D94196D33DAC}|Matriculacion.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/SRI"
+		Debug.AspNetCompiler.PhysicalPath = "WebApp\SRI\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\SRI\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/SRI"
+		Release.AspNetCompiler.PhysicalPath = "WebApp\SRI\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\SRI\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "WebApp\SRI\"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matriculacion", "..\CTGWebAppClassesVS2008\Matriculacion\Matriculacion.csproj", "{0D95FD9F-DBA8-4133-B45E-D94196D33DAC}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "wsMatVehSRI", "http://localhost/wsMatVehSRI", "{18100481-E6C9-47FE-8888-176FA70FECF3}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/wsMatVehSRI"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\inetpub\wwwroot\wsMatVehSRI\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\wsMatVehSRI\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/wsMatVehSRI"
+		Release.AspNetCompiler.PhysicalPath = "..\..\inetpub\wwwroot\wsMatVehSRI\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\wsMatVehSRI\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "..\..\inetpub\wwwroot\wsMatVehSRI\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Release|.NET = Release|.NET
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EF76A84-E4D3-4E73-A173-6F8B55A07D14}.Debug|.NET.ActiveCfg = Debug|.NET
+		{7EF76A84-E4D3-4E73-A173-6F8B55A07D14}.Debug|.NET.Build.0 = Debug|.NET
+		{7EF76A84-E4D3-4E73-A173-6F8B55A07D14}.Debug|Any CPU.ActiveCfg = Debug|.NET
+		{7EF76A84-E4D3-4E73-A173-6F8B55A07D14}.Debug|Mixed Platforms.ActiveCfg = Debug|.NET
+		{7EF76A84-E4D3-4E73-A173-6F8B55A07D14}.Debug|Mixed Platforms.Build.0 = Debug|.NET
+		{7EF76A84-E4D3-4E73-A173-6F8B55A07D14}.Release|.NET.ActiveCfg = Debug|.NET
+		{7EF76A84-E4D3-4E73-A173-6F8B55A07D14}.Release|.NET.Build.0 = Debug|.NET
+		{7EF76A84-E4D3-4E73-A173-6F8B55A07D14}.Release|Any CPU.ActiveCfg = Debug|.NET
+		{7EF76A84-E4D3-4E73-A173-6F8B55A07D14}.Release|Mixed Platforms.ActiveCfg = Debug|.NET
+		{7EF76A84-E4D3-4E73-A173-6F8B55A07D14}.Release|Mixed Platforms.Build.0 = Debug|.NET
+		{0D95FD9F-DBA8-4133-B45E-D94196D33DAC}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{0D95FD9F-DBA8-4133-B45E-D94196D33DAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D95FD9F-DBA8-4133-B45E-D94196D33DAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D95FD9F-DBA8-4133-B45E-D94196D33DAC}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{0D95FD9F-DBA8-4133-B45E-D94196D33DAC}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{0D95FD9F-DBA8-4133-B45E-D94196D33DAC}.Release|.NET.ActiveCfg = Release|Any CPU
+		{0D95FD9F-DBA8-4133-B45E-D94196D33DAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D95FD9F-DBA8-4133-B45E-D94196D33DAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D95FD9F-DBA8-4133-B45E-D94196D33DAC}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{0D95FD9F-DBA8-4133-B45E-D94196D33DAC}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{18100481-E6C9-47FE-8888-176FA70FECF3}.Debug|.NET.ActiveCfg = Debug|.NET
+		{18100481-E6C9-47FE-8888-176FA70FECF3}.Debug|.NET.Build.0 = Debug|.NET
+		{18100481-E6C9-47FE-8888-176FA70FECF3}.Debug|Any CPU.ActiveCfg = Debug|.NET
+		{18100481-E6C9-47FE-8888-176FA70FECF3}.Debug|Mixed Platforms.ActiveCfg = Debug|.NET
+		{18100481-E6C9-47FE-8888-176FA70FECF3}.Debug|Mixed Platforms.Build.0 = Debug|.NET
+		{18100481-E6C9-47FE-8888-176FA70FECF3}.Release|.NET.ActiveCfg = Debug|.NET
+		{18100481-E6C9-47FE-8888-176FA70FECF3}.Release|.NET.Build.0 = Debug|.NET
+		{18100481-E6C9-47FE-8888-176FA70FECF3}.Release|Any CPU.ActiveCfg = Debug|.NET
+		{18100481-E6C9-47FE-8888-176FA70FECF3}.Release|Mixed Platforms.ActiveCfg = Debug|.NET
+		{18100481-E6C9-47FE-8888-176FA70FECF3}.Release|Mixed Platforms.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

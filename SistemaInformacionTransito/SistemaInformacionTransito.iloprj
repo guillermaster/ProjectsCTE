@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NineRays.ILOMD.Options.Project>
+  <PathToSignTool>
+  </PathToSignTool>
+  <AssemblyList>
+    <NineRays.ILOMD.Options.AssemblyFileName>
+      <Flags>VSProject</Flags>
+      <ObfuscationOptions>
+        <NineRays.ILOMD.Options.Options>
+          <SoftwareWatermark>
+          </SoftwareWatermark>
+        </NineRays.ILOMD.Options.Options>
+      </ObfuscationOptions>
+      <Name>..\CTGWebAppClassesVS2010\AccesoDatos\bin\Debug\AccesoDatos.dll</Name>
+    </NineRays.ILOMD.Options.AssemblyFileName>
+    <NineRays.ILOMD.Options.AssemblyFileName>
+      <Flags>VSProject</Flags>
+      <ObfuscationOptions>
+        <NineRays.ILOMD.Options.Options>
+          <SoftwareWatermark>
+          </SoftwareWatermark>
+        </NineRays.ILOMD.Options.Options>
+      </ObfuscationOptions>
+      <Name>..\CTGWebAppClassesVS2010\DatosUVC\bin\Debug\DatosUVC.dll</Name>
+    </NineRays.ILOMD.Options.AssemblyFileName>
+    <NineRays.ILOMD.Options.AssemblyFileName>
+      <Flags>VSProject</Flags>
+      <ObfuscationOptions>
+        <NineRays.ILOMD.Options.Options>
+          <SoftwareWatermark>
+          </SoftwareWatermark>
+        </NineRays.ILOMD.Options.Options>
+      </ObfuscationOptions>
+      <Name>..\CTGWebAppClassesVS2010\Constantes\bin\Debug\Constantes.dll</Name>
+    </NineRays.ILOMD.Options.AssemblyFileName>
+  </AssemblyList>
+  <SaveToDirectory>.\Spices_output</SaveToDirectory>
+</NineRays.ILOMD.Options.Project>

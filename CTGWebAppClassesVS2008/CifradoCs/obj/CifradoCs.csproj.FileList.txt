@@ -1,0 +1,10 @@
+bin\Debug\CifradoCs.dll
+bin\Debug\CifradoCs.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CifradoCs.dll
+obj\Debug\CifradoCs.pdb
+bin\Release\CifradoCs.dll
+bin\Release\CifradoCs.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\CifradoCs.dll
+obj\Release\CifradoCs.pdb

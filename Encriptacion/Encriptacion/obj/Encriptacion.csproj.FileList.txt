@@ -1,0 +1,8 @@
+bin\Debug\Encriptacion.exe
+bin\Debug\Encriptacion.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Encriptacion.Form1.resources
+obj\Debug\Encriptacion.Properties.Resources.resources
+obj\Debug\Encriptacion.csproj.GenerateResource.Cache
+obj\Debug\Encriptacion.exe
+obj\Debug\Encriptacion.pdb

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alcoholimetros", "Alcoholimetros\Alcoholimetros.csproj", "{2171586F-6D9C-4DC8-9515-75337C338270}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2171586F-6D9C-4DC8-9515-75337C338270}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2171586F-6D9C-4DC8-9515-75337C338270}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2171586F-6D9C-4DC8-9515-75337C338270}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2171586F-6D9C-4DC8-9515-75337C338270}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

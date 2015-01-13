@@ -1,0 +1,246 @@
+/*************************************************************/
+/*   Design:   Multiflex-3 Update-4 / Layout-4               */
+/*   File:     Text formats                                  */
+/*-----------------------------------------------------------*/
+/*   Author:   Wolfgang                                      */
+/*   Date:     December 11, 2006                             */
+/*   Homepage: wwww.1-2-3-4.info                             */
+/*-----------------------------------------------------------*/
+/*   License:  Fully open source without restrictions.       */
+/*             Please keep footer credits with a link to     */
+/*             Wolfgang (www.1-2-3-4.info). Thank you!       */
+/*************************************************************/
+
+/******************/
+/*  MAIN SECTION  */
+/******************/
+
+/* MAIN NAVIGATION */
+.nav3-grid {width:199px; border-bottom:solid 1px rgb(200,200,200);}
+.nav3-grid dt a, .nav3-grid dt a:visited {display:block; min-height:2em; height:auto !important; height:2.0em /*IE6*/; line-height:2em; padding:0 10px 0 20px;  border-top: 1px solid rgb(200,200,200); text-decoration:none; color:rgb(70,122,167); font-weight:bold; font-size:115%;}
+.nav3-grid dd a, .nav3-grid dd a:visited {display:block; min-height:1.7em; height:auto !important; height:1.7em /*IE6*/; line-height:1.7em; padding:0 10px 0 40px; border:none; font-weight:normal; text-decoration:none; color:rgb(70,122,167); font-size:115%;}
+.nav3-grid dt a:hover, .nav3-grid dd a:hover {background-color:rgb(188,208,225); color:rgb(42,90,138); text-decoration:none;}
+
+.nav3-bullet {width:170px; margin:10px 0 0 20px;}
+.nav3-bullet dt a, .nav3-bullet dt a:visited {line-height:2em; padding:0 0 0 10px; background:url(../img/bg_bullet_full_1.gif) no-repeat 0 50%; text-decoration:none; color:rgb(70,122,167); font-weight:bold; font-size:115%;}
+.nav3-bullet dd a, .nav3-bullet dd a:visited {line-height:1.7em; margin:0 0 0 15px; padding:0 0 0 10px; background:url(../img/bg_bullet_half_1.gif) no-repeat 0 50%; text-decoration:none; color:rgb(70,122,167); font-weight:normal; font-size:115%;}
+.nav3-bullet dt a:hover {background:url(../img/bg_bullet_full_2.gif) no-repeat 0px 50%; text-decoration:underline; color:rgb(42,90,138);}
+.nav3-bullet dd a:hover {background:url(../img/bg_bullet_half_2.gif) no-repeat 0px 50%; text-decoration:underline; color:rgb(42,90,138);}
+
+.nav3-nobullet {width:170px; margin:10px 0 0 20px;}
+.nav3-nobullet dt a, .nav3-nobullet dt a:visited {line-height:2em; text-decoration:none; color:rgb(70,122,167); font-weight:bold; font-size:115%;}
+.nav3-nobullet dd a, .nav3-nobullet dd a:visited {line-height:1.7em; margin:0 0 0 15px; text-decoration:none; color:rgb(70,122,167); font-weight:normal; font-size:115%;}
+.nav3-nobullet dt a:hover, .nav3-nobullet dd a:hover {text-decoration:underline; color:rgb(42,90,138);}
+
+.main-navigation .loginform {width:160px; margin:-10px 20px 0 20px;}
+.main-navigation .loginform p {clear:both; margin:0; padding:0;}
+.main-navigation .loginform fieldset {width:160px; border:none;}
+.main-navigation .loginform label.top {float:left; width:125px; margin:0 0 2px; font-size:100%;}
+.main-navigation .loginform label.right {float:left; width:125px; margin:5px 0 0; padding:0 0 0 3px; /*IE6*/; font-size:100%;}
+.main-navigation .loginform input.field {width:158px; margin:0 0 5px; padding:0.1em 0 0.2em !important /*Non-IE6*/; padding:0.2em 0 0.3em 0 /*IE6*/; border:solid 1px rgb(200,200,200); font-family:verdana, arial, sans-serif; font-size:100%;}
+.main-navigation .loginform input.checkbox {float:left; margin:5px 0 0 0 !important /*Non-IE6*/; margin:2px 0 0 -3px /*IE6*/; border:none;}
+.main-navigation .loginform input.button {float:left; width:5em; margin:10px 0 5px; padding:1px; background:rgb(230,230,230); border:solid 1px; text-align:center; font-family:verdana, arial, sans-serif; color:rgb(150,150,150); font-size:100%;}
+.main-navigation .loginform input.button:hover {cursor:pointer; border:solid 1px rgb(80,80,80); background:rgb(220,220,220); color:rgb(80,80,80);}
+
+.main-navigation .searchform {width:160px; margin:0 20px 0 20px;}
+.main-navigation .searchform p {clear:both; margin:0; padding:0;}
+.main-navigation .searchform fieldset {border:none;}
+.main-navigation .searchform input.field {float:left; width:158px; padding:0.1em 0 0.2em !important /*Non-IE6*/; padding:0.2em 0 0.3em 0 /*IE6*/; border:solid 1px rgb(200,200,200); font-family:verdana, arial, sans-serif; font-size:110%;}
+.main-navigation .searchform input.button {float:left; width:3em; margin-top: 0.5em; padding:1px; background:rgb(230,230,230); border:solid 1px; text-align:center; font-family:verdana, arial, sans-serif; color:rgb(150,150,150); font-size:110%;}
+.main-navigation .searchform input.button:hover {cursor:pointer; border:solid 1px rgb(80,80,80); background:rgb(220,220,220); color:rgb(80,80,80);}
+
+.main-navigation .novedades {width:180px; margin:0 20px 0 15px;}
+.main-navigation .novedades p {clear:both; margin:0 1px 10px 2px; color:rgb(80,80,80); line-height:1.3em; font-size:100%;}
+.main-navigation .novedades h3 {clear:both; margin:1px 1px 3px 2px; color:rgb(80,80,80); font-weight:bold; font-size:100%;} /* Note: h2 not existent, to make identical to formats for main-navigation for easier exchange */
+
+.main-navigation h1.first {clear:both; margin:0px; padding:4px 20px 3px 20px; background-color:rgb(88,136,188); font-family:"trebuchet ms",arial,sans-serif; color:rgb(255,255,255); font-weight:bold; font-size:150%;}
+.main-navigation h1 {clear:both; margin:30px 0 20px; padding:4px 20px 3px; background:rgb(88,136,188); font-family:"trebuchet ms", arial, sans-serif; color:rgb(255,255,255); font-weight:bold; font-size:140%;}
+.main-navigation h2 {clear:both; margin:20px 10px 10px 20px; font-family:"trebuchet ms", arial, sans-serif; color:rgb(100,100,100); font-weight:bold; font-size:140%;}
+.main-navigation h3 {clear:both; margin:10px 10px 5px 20px; color:rgb(80,80,80); font-weight:bold; font-size:100%;} /* Note: h2 not existent, to make identical to formats for main-navigation for easier exchange */
+.main-navigation p {clear:both; margin:0 10px 10px 20px; color:rgb(80,80,80); line-height:1.3em; font-size:100%;}
+.main-navigation p.center {text-align:center;}
+.main-navigation p.right {text-align:right;}
+
+.main-navigation ul {list-style:none; margin:0.5em 10px 1.0em 20px;}
+.main-navigation ul li {margin:5px 0 0.2em 2px; padding:0 0 0 11px; background:url(../img/bg_bullet_full_1.gif) no-repeat 0 0.4em; line-height:1.2em; font-size:100%;}
+.main-navigation ol {margin:0.5em 10px 1.0em 40px !important /*Non-IE6*/; margin:0.5em 10px 1.0em 45px /*IE6*/;}
+.main-navigation ol li {list-style-position:outside; margin:0 0 0.4em; font-size:100%;}
+
+/* MAIN CONTENT */
+.main-content h1.pagetitle, .main-content1 h1.pagetitle, .main-content2 h1.pagetitle {margin:0 0 0.4em 0; padding:0 0 2px 0; border-bottom:solid 7px rgb(188,208,225); font-family:"trebuchet ms",arial,sans-serif; color:rgb(100,100,100); font-weight:bold; font-size:220%;}
+.main-content h1.block, .main-content1 h1.block, .main-content2 h1.block {clear:both; margin:1.0em 0 0em 0; padding:2px 0 2px 2px; background:rgb(88,136,188); font-family:"trebuchet ms",arial,sans-serif; color:rgb(255,255,255); font-weight:bold; font-size:220%;}
+.main-content h1, .main-content1 h1, .main-content2 h1 {clear:both; margin:1.0em 0 0.5em 0; font-family:"trebuchet ms",arial,sans-serif; color:rgb(80,80,80); font-weight:normal; font-size:210%;}
+.main-content h2, .main-content1 h2, .main-content2 h2 {clear:both; margin:1.0em 0 0.5em 0; font-family:"trebuchet ms",arial,sans-serif; color:rgb(80,80,80); font-weight:normal; font-size:170%;}
+.main-content h2.pagesubtitle, .main-content1 h2.pagesubtitle, .main-content2 h2.pagesubtitle {margin:0 0 0.4em 0; padding:0 0 2px 0; border-bottom:dotted 3px rgb(188,208,225); font-family:"trebuchet ms",arial,sans-serif; color:rgb(100,100,100); font-weight:bold; font-size:160%;}
+.main-content h3, .main-content1 h3, .main-content2 h3 {clear:both; margin:-1.0em 0 0.5em 0; font-family:"trebuchet ms",arial,sans-serif; color:rgb(125,125,125); font-weight:normal; font-size:130%;}
+.main-content h1.side, .main-content1 h1.side, .main-content2 h1.side {clear:none;}
+.main-content h2.side, .main-content1 h2.side, .main-content2 h2.side {clear:none;}
+.main-content h3.side, .main-content1 h3.side, .main-content2 h3.side {clear:none;}
+
+.main-content h4, .main-content1 h4, .main-content2 h4 {margin:1.5em 0 1.0em 0; color:rgb(80,80,80); font-family:"trebuchet ms",arial,sans-serif; font-weight:normal; font-size:170%;}
+.main-content h5, .main-content1 h5, .main-content2 h5 {margin:1.5em 0 1.0em 0; color:rgb(80,80,80); font-family:"trebuchet ms",arial,sans-serif; font-size:140%;}
+.main-content h6, .main-content1 h6, .main-content2 h6 {margin:1.2em 0 0.2em 0; color:rgb(80,80,80); font-weight:bold; font-size:120%;}
+.main-content p, .main-content1 p, .main-content2 p, { line-height:1.5em; font-size:120%; text-align: justify; vertical-align: top; margin-top: 2px; margin-bottom: 2px; padding-top: 2px; padding-bottom: 2px; }
+.main-content p.center, .main-content1 p.center, .main-content2 p.center, {text-align:center;}
+.main-content p.right, .main-content1 p.right, .main-content2 p.right {text-align:right;}
+.main-content p.details, .main-content1 p.details, .main-content2 p.details { clear:both; margin:-0.25em 0 1em; line-height:1em; font-size:110%; text-align: justify; padding-right: 5px; padding-left: 5px; }
+.main-content p.details_left, .main-content1 p.details_left, .main-content2 p.details_left { clear:both; margin:0em; line-height:1em; font-size:110%; text-align: left; padding-right: 0px; padding-left: 0px; }
+.main-content blockquote, .main-content1 blockquote, .main-content2 blockquote {clear:both; margin:0 30px 0.6em 30px; font-size:90%;}
+
+
+.main-content table.table, .main-content1 table.table, .main-content2 table.table {clear:both; /*width:400px;*/ margin:1em 0; table-layout: fixed; border-collapse:collapse; empty-cells:show; background-color:white;}
+.main-content table.warning, .main-content1 table.warning, .main-content2 table.warning { clear:both; /*width:400px;*/ margin:1em 0; table-layout: fixed; border-collapse:collapse; empty-cells:show; background-color:#d6e3f3; background-image: none; text-align: left; }
+.main-content table.building, .main-content1 table.building, .main-content2 table.building { clear:both; /*width:400px;*/ margin:1em 0; table-layout: fixed; border-collapse:collapse; empty-cells:show; background-color:#f0fb2b; background-image: none; text-align: left; }
+.main-content table.okmessage, .main-content1 table.okmessage, .main-content2 table.okmessage { clear:both; /*width:400px;*/ margin:1em 0; table-layout: fixed; border-collapse:collapse; empty-cells:show; background-color:#fdffd0; background-image: none; text-align: left; }
+.main-content table.error, .main-content1 table.error, .main-content2 table.error { clear:both; /*width:400px;*/ margin:1em 0; table-layout: fixed; border-collapse:collapse; empty-cells:show; background-color:#f6bcbc; background-image: none; text-align: left; }
+.main-content table.lista, .main-content1 table.lista, .main-content2 table.lista { clear:both; /*width:400px;*/  table-layout: fixed; background-color:rgb(255,255,255); border-width: 0; }
+.main-content table.warning td, .main-content1 table.warning td, .main-content2 table.warning td { font-weight: bold; clear:both; /*width:400px;*/  table-layout: fixed; border-width: 0; background-color:#d6e3f3; text-align: left; }
+.main-content table.okmessage td, .main-content1 table.okmessage td, .main-content2 table.okmessage td { font-weight: bold; clear:both; /*width:400px;*/  table-layout: fixed; border-width: 0; background-color:#fdffd0; text-align: left; }
+.main-content table.error td, .main-content1 table.error td, .main-content2 table.error td { font-weight: bold; clear:both; /*width:400px;*/  table-layout: fixed; border-width: 0; background-color:#f6bcbc; text-align: left; }
+.main-content table.table td.lista, .main-content1 table td.lista, .main-content2 table.table td.lista { height:3.5em; padding:2px; background-color:#ffffff; font-weight:normal; font-size:110%; vertical-align: middle; border-width: 0; }
+.main-content table.table th.top, .main-content1 table.table th.top, .main-content2 table.table th.top { height:3.5em; padding:0; empty-cells:show; background-color:#4875bc; text-align:center; color:rgb(255,255,255); font-weight:bold; font-size:110%; background-position: center 0; }
+.main-content table.table th, .main-content1 table.table th, .main-content2 table.table th { height:3em; padding:2px; background-color:rgb(225,225,225); color:rgb(80,80,80); font-weight:bold; font-size:110%; border: solid 1px rgb(255,255,255); }
+.main-content table.table td, .main-content1 table.table td, .main-content2 table.table td { height:3em; padding:0 4px; background-color:#e1e1e1; font-weight:normal; color:rgb(80,80,80); font-size:110%; border: solid 1px rgb(255,255,255); }
+.main-content table.table td.par, .main-content1 table.table td.par, .main-content2 table.table td.par { height:3em; padding:0 4px; background-color:#d2dde7; font-weight:normal; color:rgb(80,80,80); font-size:110%; border: solid 1px rgb(255,255,255); }
+.main-content table.directorio, .main-content1 table.directorio, .main-content2 table.directorio {clear:both; /*width:400px;*/ margin:1em 0; table-layout: fixed; border-collapse:collapse; empty-cells:show; background-color:white;}
+.main-content table.directorio th, .main-content1 table.directorio th, .main-content2 table.directorio th { height:3em; padding:2px 2px 0 6px; background-color:#316ac5; color:#fff; font-weight:bold; font-size:120%; text-align: left; vertical-align: middle; border: solid 1px rgb(255,255,255); }
+.main-content table.directorio td, .main-content1 table.directorio td, .main-content2 table.directorio td { height:3em; padding:0 14px; background-color:#bcd0e1; font-weight:normal; color:rgb(80,80,80); font-size:110%; border: solid 1px rgb(255,255,255); }
+.main-content table.miembrosdirectorio, .main-content1 table.miembrosdirectorio, .main-content2 table.miembrosdirectorio { clear:both; /*width:400px;*/ margin:1em 0; table-layout: fixed; border-collapse:collapse; empty-cells:show; background-color:white; width: 100%; padding: 2px; }
+.main-content table.miembrosdirectorio td, .main-content1 table.miembrosdirectorio td, .main-content2 table.miembrosdirectorio td { height:3em; padding:0 8px; background-color:#bcd0e1; font-weight:normal; color:rgb(80,80,80); font-size:110%; border: solid 1px rgb(255,255,255); }
+
+
+table.events {empty-cells:show; background-color:white; margin-top: 5px; margin-bottom: 5px;}
+table.events th {margin:0 0 0.4em; padding:0 0 2px; border-bottom:3px dotted rgb(188,208,225); font-family:"trebuchet ms", arial, sans-serif; color:rgb(100,100,100); font-weight:bold; font-size:160%;}
+table.events td { padding: 2px; }
+table.events tr.head { background-color: #d6e3f3; text-align: center; }
+
+table.contentajax { background-color: #cdd5e2; width: 384px  ; border-style: none; border-width: 0; }
+table.contentajax td { margin: 0; padding: 0 4px 0; border-style: none; border-width: 0; }
+table.contentajax tr {  padding: 0px; }
+.divajaxcontent { background-color:#edf0f5; padding: 0; }
+
+
+p.caption {clear:both; margin:0.5em 0 2.0em 20px; text-align:left; color:rgb(80,80,80); font-size:110%;}
+
+
+
+.main-content ul, .main-content1 ul, .main-content2 ul {list-style:none; margin:0.5em 0 1.0em 0;}
+.main-content ul li, .main-content1 ul li, .main-content2 ul li {margin:0 0 0.2em 2px; padding:0 0 0 12px; background:url(../img/bg_bullet_full_1.gif) no-repeat 0 0.5em; line-height:1.4em; font-size:100%;}
+.main-content ul.special, .main-content1 ul.special, .main-content2 ul.special {list-style:none; margin:0.5em 0 1.0em 0;}
+.main-content ul.special li, .main-content1 ul.special li, .main-content2 ul.special li {margin:0 0 0.2em 2px; padding:0 0 0 12px; background:url(../img/bg_bullet_full_2.gif) no-repeat 0 0.5em; line-height:1.4em; font-size:100%;}
+.main-content ol, .main-content1 ol, .main-content2 ol {margin:0.5em 0 1.0em 20px !important /*Non-IE6*/; margin:0.5em 0 1.0em 25px /*IE6*/;}
+.main-content ol li, .main-content1 ol li, .main-content2 ol li {list-style-position:outside; margin:0 0 0.2em 4px; line-height:1.4em; font-size:100%;}
+
+.main-content .loginform {width:160px; margin:-10px 20px 0 20px;}
+.main-content .loginform p {clear:both; margin:0; padding:0;}
+.main-content .loginform fieldset {width:160px; border:none;}
+.main-content .loginform label.top {float:left; width:125px; margin:0 0 2px 0; font-size:110%;}
+.main-content .loginform label.right {float:left; width:125px; margin:5px 0 0 0; padding:0 0 0 3px; /*IE6*/; font-size:110%;}
+.main-content .loginform input.field {width:158px; margin:0 0 5px 0; padding:0.1em 0 0.2em 0 !important /*Non-IE6*/; padding:0.2em 0 0.3em 0 /*IE6*/; border:solid 1px rgb(200,200,200); font-family:verdana,arial,sans-serif; font-size:110%;}
+.main-content .loginform input.checkbox {float:left; margin:5px 0 0 0 !important /*Non-IE6*/; margin:2px 0 0 -3px /*IE6*/; border:none;}
+.main-content .loginform input.button {float:right; width:9.0em; margin-right:20px; padding:1px !important /*Non-IE6*/; padding:0 /*IE6*/; background:rgb(230,230,230); border:solid 1px rgb(150,150,150); text-align:center; font-family:verdana,arial,sans-serif; color:rgb(150,150,150); font-size:110%;}
+.main-content .loginform input.button:hover {cursor: pointer; border:solid 1px rgb(80,80,80); background:rgb(220,220,220); color:rgb(80,80,80);}
+
+
+.contactform {width:418px; margin:2.0em 0 0 0; padding:10px 10px 0 10px; border:solid 1px rgb(200,200,200); background-color:rgb(240,240,240);}
+.contactform fieldset {padding:20px 0 0 0 !important /*Non-IE6*/; padding:0 /*IE6*/; margin:0 0 20px 0; border:solid 1px rgb(220,220,220);}
+.contactform fieldset legend {margin:0 0 0 5px !important /*Non-IE*/; margin:0 0 20px 5px /*IE6*/; padding:0 2px 0 2px; color:rgb(80,80,80); font-weight:bold; font-size:130%;}
+.contactform label.left {float:left; width:100px; margin:0 0 0 10px; padding:2px; font-size:110%;}
+.contactform select.combo {width:175px; padding:2px; border:solid 1px rgb(200,200,200); font-family:verdana,arial,sans-serif; font-size:110%;}
+.contactform select.combo2 { padding:2px; border:solid 1px rgb(200,200,200); font-family:verdana,arial,sans-serif; font-size:110%;}
+.contactform input.field {width:275px; padding:2px; border:solid 1px rgb(200,200,200); font-family:verdana,arial,sans-serif; font-size:110%;}
+.contactform textarea {width:275px; padding:2px; border:solid 1px rgb(200,200,200); font-family:verdana,arial,sans-serif; font-size:110%;}
+.contactform input.button {float:right; width:9.0em; margin-right:20px; padding:1px !important /*Non-IE6*/; padding:0 /*IE6*/; background:rgb(230,230,230); border:solid 1px rgb(150,150,150); text-align:center; font-family:verdana,arial,sans-serif; color:rgb(150,150,150); font-size:110%;}
+.contactform input.button:hover {cursor: pointer; border:solid 1px rgb(80,80,80); background:rgb(220,220,220); color:rgb(80,80,80);}
+
+/* MAIN SUBCONTENT */
+.main-subcontent h1, .main-subcontent3 h1 {clear:both; margin:0 0 10px; padding:4px 10px 3px; background-color:rgb(88,136,188); font-family:"trebuchet ms", arial, sans-serif; color:rgb(255,255,255); font-weight:bold; font-size:130%;}
+.main-subcontent h1.green, .main-subcontent3 h1.green {clear:both; margin:0 0 5px; padding:4px 10px 3px; background-color:rgb(160,214,81); font-family:"trebuchet ms", verdana, arial, sans-serif; color:rgb(255,255,255); font-weight:bold; font-size:130%;}
+.main-subcontent h1.blue, .main-subcontent3 h1.blue {clear:both; margin:0 0 5px; padding:4px 10px 3px; background-color:rgb(137,170,214); font-family:"trebuchet ms", verdana, arial, sans-serif; color:rgb(255,255,255); font-weight:bold; font-size:130%;}
+.main-subcontent h1.orange, .main-subcontent3 h1.orange {clear:both; margin:0 0 5px; padding:4px 10px 3px; background-color:rgb(232,177,13); font-family:"trebuchet ms", verdana, arial, sans-serif; color:rgb(255,255,255); font-weight:bold; font-size:130%;}
+ /* Note: h2 non-existent, to make HTML-code interchangeable between 'main-navigation' and 'main-subcontent' */
+.main-subcontent h3, .main-subcontent3 h3 {clear:both; margin:1.0em 10px 0.5em 10px; color:rgb(80,80,80); font-weight:bold; font-size:110%;}
+.main-subcontent p, .main-subcontent3 p {clear:both; margin:0 10px 1em; color:rgb(80,80,80); line-height:1.3em; font-size:100%;}
+.main-subcontent p.center, .main-subcontent3 p.center {text-align:center;}
+.main-subcontent p.right, .main-subcontent3 p.right {text-align:right;}
+
+/* MAIN SUBCONTENT */
+.subcontent-unit-border {width:183px; margin:0 0 2.0em 0; padding:0 0 5px 0; border:solid 1px rgb(190,190,190); background:rgb(235,235,235);}
+.subcontent-unit-border-green {width:183px; margin:0 0 2.5em 0; padding:0 0 10px 0; border:solid 1px rgb(160,214,81); background-color:rgb(217,239,185);}
+.subcontent-unit-border-blue  {width:183px; margin:0 0 2.5em 0; padding:0 0 10px 0; border:solid 1px rgb(137,170,214); background-color:rgb(213,225,240);}
+.subcontent-unit-border-orange {width:183px; margin:0 0 2.5em 0px; padding:0 0 10px 0; border:solid 1px rgb(232,177,13); background-color:rgb(248,224,150);}
+
+.main-subcontent ul {list-style:none; margin:0.5em 10px 1.0em 10px;}
+.main-subcontent ul li {margin:5px 0 0.2em 2px; padding:0 0 0 11px; background:url(../img/bg_bullet_full_1.gif) no-repeat 0 0.4em; line-height:1.2em; font-size:100%;}
+.main-subcontent ol {margin:0.5em 10px 1.0em 30px !important /*Non-IE6*/; margin:0.5em 10px 1.0em 35px /*IE6*/;}
+.main-subcontent ol li {list-style-position:outside; margin:0 0 0.4em; font-size:100%;}
+
+.main-subcontent3 ul {list-style:none; margin:0.5em 10px 1.0em 10px;}
+.main-subcontent3 ul li {margin:5px 0 0.2em 2px; padding:0 0 0 11px; background:url(../img/bg_bullet_full_1.gif) no-repeat 0 0.4em; line-height:1.2em; font-size:100%;}
+.main-subcontent3 ol {margin:0.5em 10px 1.0em 30px !important /*Non-IE6*/; margin:0.5em 10px 1.0em 35px /*IE6*/;}
+.main-subcontent3 ol li {list-style-position:outside; margin:0 0 0.4em; font-size:100%;}
+
+.main-subcontent .loginform {width:160px; margin:0 10px 0 10px;}
+.main-subcontent .loginform p {clear:both; margin:0; padding:0;}
+.main-subcontent .loginform fieldset {width:160px; border:none;}
+.main-subcontent .loginform label.top {float:left; width:125px; margin:0 0 2px; font-size:100%;}
+.main-subcontent .loginform label.right {float:left; width:125px; margin:5px 0 0; padding:0 0 0 3px; /*IE6*/; font-size:100%;}
+.main-subcontent .loginform input.field {width:158px; margin:0 0 5px 0; padding:0.1em 0 0.2em 0 !important /*Non-IE6*/; padding:0.2em 0 0.3em 0 /*IE6*/; border:solid 1px rgb(200,200,200); font-family:verdana,arial,sans-serif; font-size:100%;}
+.main-subcontent .loginform input.checkbox {float:left; margin:5px 0 0 0 !important /*Non-IE6*/; margin:2px 0 0 -3px /*IE6*/; border:none;}
+.main-subcontent .loginform input.button {float:left; width:5.0em; margin:10px 0 5px 0; padding:1px; background:rgb(230,230,230); border:solid 1px rgb(150,150,150); text-align:center; font-family:verdana,arial,sans-serif; color:rgb(150,150,150); font-size:100%;}
+.main-subcontent .loginform input.button:hover {cursor:pointer; border:solid 1px rgb(80,80,80); background:rgb(220,220,220); color:rgb(80,80,80);}
+
+.main-subcontent .searchform {width:160px; margin:0 10px 0 10px;}
+.main-subcontent .searchform fieldset {border:none;}
+.main-subcontent .searchform input.field {float:left; width:158px; padding:0.1em 0 0.2em !important /*Non-IE6*/; padding:0.2em 0 0.3em 0 /*IE6*/; border:solid 1px rgb(200,200,200); font-family:verdana, arial, sans-serif; font-size:110%;}
+.main-subcontent .searchform input.button {float:left; width:3em; margin-top: 0.5em; padding:1px; background:rgb(230,230,230); border:solid 1px; text-align:center; font-family:verdana, arial, sans-serif; color:rgb(150,150,150); font-size:110%;}
+.main-subcontent .searchform input.button:hover {cursor:pointer; border:solid 1px rgb(80,80,80); background:rgb(220,220,220); color:rgb(80,80,80);}
+
+/*************************/
+/* ESTRUCTURA JERARQUICA */
+/*************************/
+/*.level_containter{ font-size: 97%; text-align: center; vertical-align: top; width: 97%; margin: 4px 2px 8px 3px; border: dotted 1px #5b5b5b; }
+.level_containter td{ text-align: center; vertical-align: top; padding-left: 2px; padding-right: 2px; }
+.level_1 { color: #fff; font-weight: bold; background-color: #2a4969; text-align: center; padding: 4px; }
+.level_2 { color: #fff; font-weight: bold; background-color: #195b9e; text-align: center; vertical-align: middle; padding: 4px; }
+.level_3 { color: #fff; background-color: #5496d0; text-align: center; vertical-align: middle; padding: 3px; margin: 3px; }
+.level_4 { color: #fff;  background-color: #a2c8f0; text-align: center; vertical-align: middle; padding: 1px; }
+.level_5 { color: #5d5d5d; background-color: #e4effa; text-align: center; vertical-align: middle; padding: 0; }
+*/
+/**  ENCUESTA **/
+.bar{ background-color: #a5bddc;}
+
+
+/********************/
+/*  COMMON CLASSES  */
+/********************/
+.main img {clear:both; float:left; margin:0; padding:0; border:solid 0 rgb(150,150,150);}
+.main img.readmore {clear:both; float:left; margin:0 2px 0 0; padding:0; border:0 rgb(150,150,150);}
+.main img.noticia {clear:both; float:left; margin:2px 12px 4px 1px; padding:0; border:solid 1px rgb(150,150,150);}
+.main img.center {clear:both; float:none; margin:0; padding:1px; border:solid 0 rgb(150,150,150);}
+.main img.right {clear:both; float:right; margin:3px 0 7px 10px; padding:1px; border:1px solid rgb(150,150,150);}
+.main img.button { border: solid 1px #2a4969; cursor: pointer; }
+.main img.button_res { border: solid 1px #2a4969; }
+a {color:rgb(70,122,167); font-weight:bold; text-decoration:none;}
+.main a {color:rgb(70,122,167); font-weight:bold; text-decoration:none;}
+.main-content h1 a {color:rgb(70,122,167); font-weight:normal; text-decoration:none;}
+.main a:hover {color:rgb(42,90,138); text-decoration:underline;}
+.main a:visited { color:rgb(70,122,167); }/*42,90,138); }*/
+ a.aux {color:rgb(70,122,167); font-weight:bold; text-decoration:none;}
+ a.aux:hover {color:rgb(42,90,138); text-decoration:underline;}
+ a.aux:visited { color:rgb(70,122,167); }
+ img.aux {clear:both; margin:0 1px 0 0; padding:0 1px 0 0; border:0;}
+
+.main-subcontent3 a {color:rgb(70,122,167); font-weight:bold; text-decoration:none;}
+.main-subcontent3 a:hover {color:rgb(42,90,138); text-decoration:none;}
+.main-subcontent3 a:visited { color:rgb(70,122,167); }
+.main a img {border:1px rgb(150,150,150);}
+.main a:hover img { border-color: rgb(220,220,220); border-width: 1px; }
+
+/***************************/
+/* .NET */
+.small_dark_blue {clear:both; margin:0 0 0 0; font-family:"trebuchet ms",arial,sans-serif; color:#384f89; font-weight:normal; font-size:90%;}
+table.error2 { clear:both; /*width:400px;*/ margin:1em 0; table-layout: fixed; border-collapse:collapse; empty-cells:show; background-color:#f6bcbc; background-image: none; text-align: left; }
+table.error2 td { font-weight: bold; clear:both; /*width:400px;*/  table-layout: fixed; border-width: 0; background-color:#f6bcbc; text-align: left; }
+table.warning { clear:both; /*width:400px;*/ margin:1em 0; table-layout: fixed; border-collapse:collapse; empty-cells:show; background-color:#d6e3f3; background-image: none; text-align: left; }
+input.field { background-color:White; margin: 0px 3px 0px 3px; }

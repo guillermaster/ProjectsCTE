@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccesoDatos", "..\CTGWebAppClassesVS2008\AccesoDatos\AccesoDatos.csproj", "{F2FE322C-CE24-4A37-941F-2551E77170B2}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "PortalTrx", "http://localhost/PortalTrx", "{3A861CF2-0FFE-4764-AB58-45CAA11B4081}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/PortalTrx"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\inetpub\wwwroot\PortalTrx\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\PortalTrx\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/PortalTrx"
+		Release.AspNetCompiler.PhysicalPath = "..\..\inetpub\wwwroot\PortalTrx\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\PortalTrx\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "..\..\inetpub\wwwroot\PortalTrx\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Release|.NET = Release|.NET
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2FE322C-CE24-4A37-941F-2551E77170B2}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{F2FE322C-CE24-4A37-941F-2551E77170B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2FE322C-CE24-4A37-941F-2551E77170B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2FE322C-CE24-4A37-941F-2551E77170B2}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{F2FE322C-CE24-4A37-941F-2551E77170B2}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{F2FE322C-CE24-4A37-941F-2551E77170B2}.Release|.NET.ActiveCfg = Release|Any CPU
+		{F2FE322C-CE24-4A37-941F-2551E77170B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2FE322C-CE24-4A37-941F-2551E77170B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2FE322C-CE24-4A37-941F-2551E77170B2}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{F2FE322C-CE24-4A37-941F-2551E77170B2}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{3A861CF2-0FFE-4764-AB58-45CAA11B4081}.Debug|.NET.ActiveCfg = Debug|.NET
+		{3A861CF2-0FFE-4764-AB58-45CAA11B4081}.Debug|.NET.Build.0 = Debug|.NET
+		{3A861CF2-0FFE-4764-AB58-45CAA11B4081}.Debug|Any CPU.ActiveCfg = Debug|.NET
+		{3A861CF2-0FFE-4764-AB58-45CAA11B4081}.Debug|Mixed Platforms.ActiveCfg = Debug|.NET
+		{3A861CF2-0FFE-4764-AB58-45CAA11B4081}.Debug|Mixed Platforms.Build.0 = Debug|.NET
+		{3A861CF2-0FFE-4764-AB58-45CAA11B4081}.Release|.NET.ActiveCfg = Debug|.NET
+		{3A861CF2-0FFE-4764-AB58-45CAA11B4081}.Release|.NET.Build.0 = Debug|.NET
+		{3A861CF2-0FFE-4764-AB58-45CAA11B4081}.Release|Any CPU.ActiveCfg = Debug|.NET
+		{3A861CF2-0FFE-4764-AB58-45CAA11B4081}.Release|Mixed Platforms.ActiveCfg = Debug|.NET
+		{3A861CF2-0FFE-4764-AB58-45CAA11B4081}.Release|Mixed Platforms.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

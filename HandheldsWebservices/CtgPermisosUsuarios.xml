@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<!--Se Envia User / Password / IMEI (International Mobile Equipment Identity) y retornara la data como sigue:-->
+<Permisos>
+	<Mensajes>
+		<!--Si acaso tiene advertencias o errores sino Mensajes no tendra nada-->
+		<!--Por ejemplo si no tiene permiso para ese dispositivo o Usuario/Password incorrectos-->
+		<Mensaje1>
+			<Mensaje> No tiene permiso para dispositivo </Mensaje>
+			<Validar>True/False</Validar> <!—Indica si ingresa o no de la aplicación por el mensaje 
+							enviado-->
+		</Mensaje1>
+	</Mensajes>
+
+
+	<Transacciones>
+		<!--trCTG001 Pantalla de Consultas-->
+		<!--trCTG002 Pantalla de Pagos-->
+		<!--trCTG003 Pantalla de Propietario verificar si aplica al sistema-->
+		<!--trCTG004 Pantalla de Datos Vehiculo-->
+		<!--trCTG005 Pantalla de Revision de Datos, para casos de peticion de placas repetidas... que revise chasis y motor-->
+		<!--trCTG006 Pantalla de Requisitos de Ley-->
+		<!--trCTG007 Pantalla de Revision-->
+		<!--trCTG008 Pantalla de Foto Vehiculo-->
+		<!--trCTG009 Pantalla de Impronta-->
+		<!--trCTG010 Pantalla de Consultas-->
+		<!--Dichos permisos se recibiran ordenados de acuerdo a la secuencia que tendra que seguir el Vigilante-->
+		<Transaccion1> trCTG001 </Transaccion1>
+		<Transaccion2> trCTG002 </Transaccion2>
+		<Transaccion3> trCTG003 </Transaccion3>
+		<Transaccion4> trCTG004 </Transaccion4>
+		<Transaccion5> trCTG005 </Transaccion5>
+		<Transaccion6> trCTG006 </Transaccion6>
+		<Transaccion7> trCTG007 </Transaccion7>
+		<Transaccion8> trCTG008 </Transaccion8>
+		<Transaccion9> trCTG009 </Transaccion9>
+		<Transaccion10> trCTG010 </Transaccion10>		
+	</Transacciones>	
+</Permisos>

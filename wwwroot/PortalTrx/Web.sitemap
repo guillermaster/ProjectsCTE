@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode url="Default.aspx" title="Inicio"  description="">
+        <siteMapNode url="Logon.aspx" title="Iniciar sesión"  description="" />
+        <siteMapNode url="LoginExtra/LostPassword.aspx" title="Recordar contraseña"  description="" />
+        <siteMapNode url="LoginExtra/ResendActivationEmail.aspx" title="Reenviar mensaje de activación"  description="" />
+        <siteMapNode url="LoginExtra/UserRegistartion.aspx" title="Registro de cuenta"  description="" />
+        <siteMapNode url="DataUserAccount.aspx" title="Información de mi cuenta"  description="" />
+        <siteMapNode url="DataUserCTG.aspx" title="Mis datos personales en CTE"  description="" />
+        <siteMapNode url="Consultas/Default.aspx" title="Consultas"  description="">
+            <siteMapNode url="Consultas/Licencias/DatosLicencia.aspx" title="Mi licencia de conducir"  description="" />
+            <siteMapNode url="Consultas/Licencias/PuntosLicencia.aspx" title="Puntos en mi licencia"  description="" />
+            <siteMapNode url="Consultas/Vehiculos/Vehiculos.aspx" title="Mis vehículos"  description="">
+              <siteMapNode url="Consultas/Vehiculos/VehiculoDetInfo.aspx" title="Vehículo"  description="" />
+            </siteMapNode>
+            <siteMapNode url="Consultas/Vehiculos/VehiculosCanchon.aspx" title="Vehículos retenidos"  description="" />
+            <siteMapNode url="Consultas/Citaciones/CitacionesPendientes.aspx" title="Citaciones pendientes" description="" />
+            <siteMapNode url="Consultas/Citaciones/CitacionPorCodigo.aspx" title="Citaciones por código" description="" />
+          <siteMapNode url="Consultas/Tramites/EstadosTramite.aspx" title="Seguimiento de Trámites" description="" />
+            <siteMapNode url="Consultas/Varios/ExamPracticoNotas.aspx" title="Notas en exámenes prácticos" description="" />
+            <siteMapNode url="Consultas/Licencias/LicGroupBySangre.aspx" title="Licencias por tipo de sangre" description="" />
+            <siteMapNode url="Consultas/Vehiculos/VehiculosRobados.aspx" title="Vehiculos robados" description="" />
+            <siteMapNode url="Consultas/Tramites/Tracking.aspx" title="Trámites en ejecución"  description="" />
+            <siteMapNode url="Consultas/Tramites/Finalizados.aspx" title="Trámites finalizados"  description="" />
+            <siteMapNode url="Consultas/Tramites/CitacionesPagadasBanca.aspx" title="Citaciones pagadas"  description="" />
+            <siteMapNode url="Consultas/Tramites/SolTramitesNoPagadas.aspx" title="Solicitudes de trámites no pagadas"  description="" />
+        </siteMapNode>
+        <siteMapNode url="Tramites/Default.aspx" title="Trámites"  description="">
+          <siteMapNode url="Tramites/ModEntrega.aspx" title="Modo de entrega" description="Modo de entrega del trámite" />
+          <siteMapNode url="Tramites/CEP.aspx" title="CEP" description="Código electrónico de pago" />
+        </siteMapNode>
+    </siteMapNode>
+</siteMap>

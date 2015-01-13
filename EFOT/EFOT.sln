@@ -1,0 +1,107 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccesoDatos", "..\CTGWebAppClassesVS2010\AccesoDatos\AccesoDatos.csproj", "{F2FE322C-CE24-4A37-941F-2551E77170B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFOTclass", "EFOTclass\EFOTclass.csproj", "{280936E8-7E41-46EF-B2B2-B60EC55F88DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constantes", "..\CTGWebAppClassesVS2010\Constantes\Constantes.csproj", "{BC38F8BC-F695-4EAC-B411-6922AEF9A998}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brevetacion", "..\CTGWebAppClassesVS2010\Brevetacion\Brevetacion.csproj", "{1404D347-29DD-417F-9C91-E40681C3D7FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utilities", "..\CTGWebAppClassesVS2010\Utilities\Utilities.csproj", "{D31D319B-E918-4E36-8A89-CB7360506783}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CifradoCs", "..\CTGWebAppClassesVS2010\CifradoCs\CifradoCs.csproj", "{5F3E85F4-85EC-4EE1-9A70-AC9DFCF6C281}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "EFOT", "http://localhost/EFOT", "{E8072943-588C-4BAA-AD26-F04252EE43BA}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		ProjectReferences = "{F2FE322C-CE24-4A37-941F-2551E77170B2}|AccesoDatos.dll;{1404D347-29DD-417F-9C91-E40681C3D7FB}|Brevetacion.dll;{BC38F8BC-F695-4EAC-B411-6922AEF9A998}|Constantes.dll;{5F3E85F4-85EC-4EE1-9A70-AC9DFCF6C281}|CifradoCs.dll;{280936E8-7E41-46EF-B2B2-B60EC55F88DA}|EFOTclass.dll;{D31D319B-E918-4E36-8A89-CB7360506783}|Utilities.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/EFOT"
+		Debug.AspNetCompiler.PhysicalPath = "AppWeb\EFOT\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\EFOT\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/EFOT"
+		Release.AspNetCompiler.PhysicalPath = "AppWeb\EFOT\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\EFOT\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "..\..\inetpub\wwwroot\EFOT\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "CalificacionEFOT", "http://localhost/CalificacionEFOT", "{0376E7EC-803A-46B6-9861-8CCB6EA10832}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		ProjectReferences = "{280936E8-7E41-46EF-B2B2-B60EC55F88DA}|EFOTclass.dll;{F2FE322C-CE24-4A37-941F-2551E77170B2}|AccesoDatos.dll;{BC38F8BC-F695-4EAC-B411-6922AEF9A998}|Constantes.dll;{5F3E85F4-85EC-4EE1-9A70-AC9DFCF6C281}|CifradoCs.dll;{77F2432E-7D83-42F7-B076-20F9E76CC52C}|SeguridadWebAppInt.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/CalificacionEFOT"
+		Debug.AspNetCompiler.PhysicalPath = "AppWeb\CalificacionEFOT\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\CalificacionEFOT\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/CalificacionEFOT"
+		Release.AspNetCompiler.PhysicalPath = "AppWeb\CalificacionEFOT\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\CalificacionEFOT\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "..\..\inetpub\wwwroot\CalificacionEFOT\"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeguridadWebAppInt", "..\CTGWebAppClassesVS2010\SeguridadWebAppInt\SeguridadWebAppInt.csproj", "{77F2432E-7D83-42F7-B076-20F9E76CC52C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2FE322C-CE24-4A37-941F-2551E77170B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2FE322C-CE24-4A37-941F-2551E77170B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2FE322C-CE24-4A37-941F-2551E77170B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2FE322C-CE24-4A37-941F-2551E77170B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{280936E8-7E41-46EF-B2B2-B60EC55F88DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{280936E8-7E41-46EF-B2B2-B60EC55F88DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{280936E8-7E41-46EF-B2B2-B60EC55F88DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{280936E8-7E41-46EF-B2B2-B60EC55F88DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC38F8BC-F695-4EAC-B411-6922AEF9A998}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC38F8BC-F695-4EAC-B411-6922AEF9A998}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC38F8BC-F695-4EAC-B411-6922AEF9A998}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC38F8BC-F695-4EAC-B411-6922AEF9A998}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1404D347-29DD-417F-9C91-E40681C3D7FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1404D347-29DD-417F-9C91-E40681C3D7FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1404D347-29DD-417F-9C91-E40681C3D7FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1404D347-29DD-417F-9C91-E40681C3D7FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D31D319B-E918-4E36-8A89-CB7360506783}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D31D319B-E918-4E36-8A89-CB7360506783}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D31D319B-E918-4E36-8A89-CB7360506783}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D31D319B-E918-4E36-8A89-CB7360506783}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F3E85F4-85EC-4EE1-9A70-AC9DFCF6C281}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F3E85F4-85EC-4EE1-9A70-AC9DFCF6C281}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F3E85F4-85EC-4EE1-9A70-AC9DFCF6C281}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F3E85F4-85EC-4EE1-9A70-AC9DFCF6C281}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8072943-588C-4BAA-AD26-F04252EE43BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8072943-588C-4BAA-AD26-F04252EE43BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8072943-588C-4BAA-AD26-F04252EE43BA}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8072943-588C-4BAA-AD26-F04252EE43BA}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{0376E7EC-803A-46B6-9861-8CCB6EA10832}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0376E7EC-803A-46B6-9861-8CCB6EA10832}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0376E7EC-803A-46B6-9861-8CCB6EA10832}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{0376E7EC-803A-46B6-9861-8CCB6EA10832}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{77F2432E-7D83-42F7-B076-20F9E76CC52C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77F2432E-7D83-42F7-B076-20F9E76CC52C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77F2432E-7D83-42F7-B076-20F9E76CC52C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77F2432E-7D83-42F7-B076-20F9E76CC52C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

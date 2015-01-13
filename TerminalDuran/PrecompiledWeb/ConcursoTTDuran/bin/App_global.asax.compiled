@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="8" virtualPath="/ConcursoTTDuran/global.asax" hash="291e357d" filehash="1a2a6ef58e56" flags="150000" assembly="App_global.asax" type="ASP.global_asax">
+    <filedeps>
+        <filedep name="/ConcursoTTDuran/global.asax" />
+    </filedeps>
+</preserve>

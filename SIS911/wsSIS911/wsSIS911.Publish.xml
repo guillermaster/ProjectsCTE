@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="\\10.30.1.4\New Folder\wsSIS911" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Web.config" publishTime="08/05/2011 16:45:40" />
+    <file relUrl="bin/wsSIS911.dll" publishTime="08/05/2011 16:45:39" />
+    <file relUrl="bin/SeguridadWebAppInt.pdb" publishTime="08/05/2011 16:45:38" />
+    <file relUrl="bin/wsSIS911.pdb" publishTime="08/05/2011 16:45:38" />
+    <file relUrl="bin/CifradoCs.dll" publishTime="08/05/2011 16:19:44" />
+    <file relUrl="bin/AccesoDatos.dll" publishTime="08/05/2011 16:19:44" />
+    <file relUrl="bin/Brevetacion.dll" publishTime="08/05/2011 16:19:45" />
+    <file relUrl="bin/Matriculacion.dll" publishTime="08/05/2011 16:19:45" />
+    <file relUrl="bin/AccesoDatos.pdb" publishTime="08/05/2011 16:19:44" />
+    <file relUrl="bin/Constantes.pdb" publishTime="08/05/2011 16:19:45" />
+    <file relUrl="bin/CifradoCs.pdb" publishTime="08/05/2011 16:19:44" />
+    <file relUrl="bin/Constantes.dll" publishTime="08/05/2011 16:19:45" />
+    <file relUrl="bin/Brevetacion.pdb" publishTime="08/05/2011 16:19:45" />
+    <file relUrl="bin/SeguridadWebAppInt.dll" publishTime="08/05/2011 16:45:38" />
+    <file relUrl="bin/Matriculacion.pdb" publishTime="08/05/2011 16:19:44" />
+    <file relUrl="ControlTransito.asmx" publishTime="07/19/2011 01:47:58" />
+  </publishProfile>
+</publishData>

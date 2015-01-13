@@ -1,0 +1,7 @@
+D:\Proyecto\HandheldsWebservices\Vehiculos\bin\Debug\Vehiculos.dll
+D:\Proyecto\HandheldsWebservices\Vehiculos\bin\Debug\Vehiculos.pdb
+D:\Proyecto\HandheldsWebservices\Vehiculos\bin\Debug\AccesoDatos.dll
+D:\Proyecto\HandheldsWebservices\Vehiculos\bin\Debug\AccesoDatos.pdb
+D:\Proyecto\HandheldsWebservices\Vehiculos\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyecto\HandheldsWebservices\Vehiculos\obj\Debug\Vehiculos.dll
+D:\Proyecto\HandheldsWebservices\Vehiculos\obj\Debug\Vehiculos.pdb

@@ -1,0 +1,9 @@
+C:\Proyecto\InformesDirectorio\InformesDirectorioExtra\bin\Debug\InformesDirectorioExtra.dll
+C:\Proyecto\InformesDirectorio\InformesDirectorioExtra\bin\Debug\InformesDirectorioExtra.pdb
+C:\Proyecto\InformesDirectorio\InformesDirectorioExtra\obj\Debug\ResolveAssemblyReference.cache
+C:\Proyecto\InformesDirectorio\InformesDirectorioExtra\obj\Debug\InformesDirectorioExtra.dll
+C:\Proyecto\InformesDirectorio\InformesDirectorioExtra\obj\Debug\InformesDirectorioExtra.pdb
+C:\Proyecto\InformesDirectorio\InformesDirectorioExtra\bin\Debug\AccesoDatos.dll
+C:\Proyecto\InformesDirectorio\InformesDirectorioExtra\bin\Debug\AccesoDatos.pdb
+C:\Proyecto\InformesDirectorio\InformesDirectorioExtra\bin\Debug\Constantes.dll
+C:\Proyecto\InformesDirectorio\InformesDirectorioExtra\bin\Debug\Constantes.pdb

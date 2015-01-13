@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Leyenda>
+  <Infraccion Puntos="1,5" Tipo="Leves de primera clase" />
+  <Infraccion Puntos="3" Tipo="Leves de segunda clase" />
+  <Infraccion Puntos="4,5" Tipo="Leves de tercera clase" />
+  <Infraccion Puntos="6" Tipo="Graves de primera clase" />
+  <Infraccion Puntos="7,5" Tipo="Graves de segunda clase" />
+  <Infraccion Puntos="9" Tipo="Graves de tercera clase" />
+  <Infraccion Puntos="10" Tipo="Muy graves" />
+  <Infraccion Puntos="11 - 30" Tipo="Delitos" />
+</Leyenda>
